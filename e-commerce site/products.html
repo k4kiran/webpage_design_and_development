@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <!-- ============ META INFO ==============-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ============ TITLE ==============-->
+  <title>Products</title>
+
+  <!-- ============ CSS ==============-->
+
+  <!-------- Boostrap CSS -------->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+   <!-------- Jquery Ui Slider -------->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  
+
+  <!-------- Google Font -------->
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,500,600,700,800,900&display=swap"
+    rel="stylesheet" />
+
+  <!-------- Font Awesome -------->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" rel="stylesheet" />
+
+  <!-------- Web Font Primary -------->
+
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap" />
+
+  <!-------- Web Font Secondary -------->
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400i&display=swap" />
+
+  <!-------- Custom Styles -------->
+  <link href="assets/css/productstyle.css" type="text/css" rel="stylesheet" />
+
+</head>
+
+<body>
+  <!-- ============ HEADER ==============-->
+	<header>
+		<section class="container navigationsection">
+			<!----------------- NAVBAR ------------------>
+			<nav class="navbar navbar-expand-lg navbar-light">
+				<!-------- Brand Logo -------->
+				<a class="navbar-brand" href="#">
+					<figure>
+						<img src="assets/images/logo.png">
+					</figure>
+				</a>
+				<!-------- Toggle Button -------->
+				<button class="navbar-toggler" type="button" data-toggle="collapse"
+					data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+					aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<!-------- Top Navigation -------->
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar ml-auto">
+						<li class="nav-item">
+							<a class="nav-link makebold" href="index.html">HOME</a>
+						</li>
+						<li class="nav-item active">
+							<a class="nav-link makebold black active" href="#">PRODUCTS</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link makebold" href="#signupnews">SIGNUP</a>
+					</ul>
+				</div>
+			</nav>
+		</section>
+	</header>
+
+  <!-- ============ MAIN HEADING ==============-->
+  <section class="mainheading">
+    <h1 class="headingshop">SHOP</h1>
+    <label id="home"><a href="index.html">Home</a></label>&nbsp;&nbsp;/&nbsp;&nbsp;<label id="shop"><a href="#">SHOP</a></label>
+  </section>
+
+  <!-- ============ PRODUCTS SECTION ==============-->
+  <section class="container products">
+    <div class="row">
+      <div class="col-sm-3 filtersection">
+          <h3 class="category">Product Categories</h3><hr>
+          <ul class="list">
+          <li><a href="#">Decor</a></li>
+          <li><a href="#">Dining Chair</a></li>
+          <li><a href="#">Essentials</a></li>
+          <li><a href="#">Furniture</a></li>
+          <li><a href="#">Interiors</a></li>
+          <li><a href="#">Light</a></li>
+          <li><a href="#">Office</a></li>
+          <li><a href="#">Stationary</a></li>
+          <li><a href="#">Uncategorized</a></li>
+        </ul>
+        <!----------------- Price range slider ---------------->
+        <h3>Filter By Price</h3><hr>
+
+        <div id="slider-range"></div>
+        <div class="row">
+          <div class="col-sm-6">
+            <button type="button" class="btn filterbutton" onclick="filterItem()">FILTER</button> 
+          </div>
+          <div class="col-sm-6 filtervalue">
+           <p>
+            <label for="amount">Price:</label>
+            <input type="text" id="amount" readonly >
+          </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-9">
+          <!--------- Buttons to choose list or grid view ----------->
+          <div class="viewmode">
+            <label>View mode:</label>
+            <button onclick="gridView()" class="btn viewbutton"><i class="fa fa-th"></i></button> 
+            <button onclick="listView()" class="btn viewbutton"><i class="fa fa-list-ul"></i></button> 
+          </div><hr>
+          <!------------- Products are dynamically loaded here -------->
+          <div class="productlist d-flex flex-wrap flex-row" id="fillproduct">
+          </div><hr>
+
+          <!------------- Pagination section -------->
+          <div class="nextitems">
+            <div class="row">
+              <div class="col-sm-6">Showing&nbsp;<span id="itemstart">1</span>
+              -<span id="itemend">12&nbsp;</span>of&nbsp;<span id="totalitem">26&nbsp;</span>Results</div>
+              <div class="col-sm-6">
+                 <ul class="pagination changepage">
+                    <li class="page-item"><a class="page-link page1" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link page2" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link page3" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link next" href="#"><i class="fa fa-caret-right" aria-hidden="true"></i></a></li>
+                  </ul>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ NEWSLETTER ==============-->
+  <section class="newsletter" id="signupnews">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 news">
+          <h3 class="newssignup">SIGN UP NEWSLETTER</h3>
+        </div>
+        <div class="col-sm-4 newssubtitle">
+          Get news and receive 20% off for your next buy!
+        </div>
+        <div class="col-sm-6">
+          <form class="subscribenews">
+            <div class="form-group-inline" onsubmit="newsSubscribe2(); return false">
+              <input type="email" value ="" id="subscribemail" placeholder="Your email address" required>
+              <button type = submit class="btn newssubmit btn-danger">Submit</button>
+            </div>
+            <div class="alert alert-success" id="subscribe1">
+            <strong>Success!</strong> Welcome to magneto community.
+          </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HELP SECTION ==============-->
+  <section class="helpsection container">
+    <div class="row">
+      <div class="col-sm-4 information">
+        <h3 class="helpheadings">CONTACT US</h3>
+       
+        <form class="myform">
+           <input type="text" class="form-control myinput input1" id="fullname" placeholder="Full Name">
+           <!------------------- error message ----------------->
+            <div class="alert alert-danger" id="nameerror">
+              <strong>Error!</strong> Please enter valid name
+            </div>
+           <input type="email" class="form-control myinput input2" id="email" placeholder="Email">          
+           <!------------------- error message ----------------->
+            <div class="alert alert-danger" id="emailerror">
+              <strong>Error!</strong> Please enter valid email address.
+            </div>
+           <input type="text" class="form-control myinput input3" id="message" placeholder="Message">           
+           <!------------------- error message ----------------->
+            <div class="alert alert-danger" id="messageerror">
+              <strong>Error!</strong> Please enter a message.
+            </div>
+           <button type="button" class="btn mybtn1" onclick="resetForm()">RESET</button>
+           <button type="button" class="btn mybtn2" onclick="formValidate()">SUBMIT</button>
+           <!------------------- success message ----------------->
+            <div class="alert alert-success mt-2" id="successsignup">
+              <strong>Thanks</strong> You will be hearing from us
+            </div>
+        </form>
+      </div>
+      <div class="col-sm-2">
+        <h3 class="helpheadings">INFORMATION</h3>
+         <ul class="infolist list-unstyled">
+          <a href="#"><li>About us</li></a>
+          <a href="#"><li>Affiliate</li></a>
+          <a href="#"><li>Privacy Policy</li></a>
+          <a href="#"><li>Shipping &Delivery</li></a>
+          <a href="#"><li>Terms&Conditions</li></a>
+          <a href="#"><li>Returns&Exchanges</li></a>
+        </ul>
+      </div>
+      <div class="helplist col-sm-2">
+        <h3 class="helpheadings">NEED HELP</h3>
+         <ul class="list-unstyled">
+          <a href="#"><li>FAQ</li></a>
+          <a href="#"><li>About us</li></a>
+          <a href="#"><li>Privacy policy</li></a>
+          <a href="#"><li>Customer Services</li></a>
+          <a href="#"><li>Product Care</li></a>
+          <a href="#"><li>Site Guide</li></a>
+        </ul>
+      </div>
+      <div class="col-sm-4 recentposts">
+        <h3 class="helpheadings">RECENT POSTS</h3>
+        <!---------- POST 1 ------------->
+        <div class="post row">
+          <div class="col-sm-3">
+            <figure><img src="assets/images/blog-image-01.jpg"></figure>
+          </div>
+          <div class="col-sm-9 blogcontent">
+            <div class="blog-title"><a href="#">Fusce Congue Vestibulam Tortor</br> Subscipt</a></div>
+              <div class="row">
+                <div class="col-sm-6"><i class="fa  fa-calendar" aria-hidden="true"></i>&nbsp;March 15, 2018</div>
+                <div class="col-sm-6"><i class="far fa-comment"></i>&nbsp;<span id="commentnumber1">0</span>&nbsp;comment</div>
+              </div>
+          </div>
+        </div>
+        <hr>
+        <!---------- POST 2 ------------->
+        <div class="post row">
+          <div class="col-sm-3">
+            <figure><img src="assets/images/blog-image-02.jpg"></figure>
+          </div>
+          <div class="col-sm-9 blogcontent">
+            <div class="blog-title"><a href="#">Salt Pepper Grinders In Highaizabu</a></div>
+              <div class="row">
+                <div class="col-sm-6"><i class="fa  fa-calendar" aria-hidden="true"></i>&nbsp;March 15, 2018</div>
+                <div class="col-sm-6"><i class="far fa-comment"></i>&nbsp;<span id="commentnumber1">0</span>&nbsp;comment</div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- ============ FOOTER ==============-->
+  <footer class="container">
+    <hr>
+    <div class="row">
+      <div class="col-sm-4 social">
+        <a href="#"><i class="fab fa-facebook"></i></a> 
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-google-plus"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-pinterest"></i></a>
+      </div>
+      <div class="col-sm-4 copyright">
+        Copyright 2018 All rights Reserved
+      </div>
+      <div class="col-sm-4 socialmedia">
+        <a href="#">
+          <figure><img src="assets/images/payment.png"></figure>
+        </a>
+      </div>
+    </div>
+  </footer>
+
+ <!-- ============ SCRIPTS ==============-->
+
+  <!-------- Jquery CDN -------->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+
+  <!-------- JSON File -------->
+  <script type="text/javascript" src="assets/js/myProducts.json"></script>
+
+  <!-------- Jquery Slider Ui -------->
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <!-------- Popper JS CDN  -------->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"></script>
+
+  <!-------- Bootstrap JS  CDN -------->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  <!-------- CUSTOM JS -------->  
+  <script src="assets/js/main.js" type="text/javascript"></script>
+  <script src="assets/js/validate.js" type="text/javascript"> </script>
+
+</body>
+</html>
+
