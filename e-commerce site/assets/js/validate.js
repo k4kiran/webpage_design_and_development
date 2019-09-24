@@ -87,7 +87,16 @@ function newsSubscribe2(){
 // ===========  RESET FORM ============ //
 
 function resetForm(){
-   document.getElementById("fullname").value = '';
-   document.getElementById("email").value = '';
-   document.getElementById("message").value = '';
+
+  //resetting all error boxes
+  document.getElementById("nameerror").style.display = "none";
+  document.getElementById("fullname").style.borderColor = "";
+  document.getElementById("emailerror").style.display = "none";
+  document.getElementById("email").style.borderColor = "";
+  document.getElementById("messageerror").style.display = "none";
+  document.getElementById("message").style.borderColor = "";
+
+  document.getElementById("fullname").value = '';
+  document.getElementById("email").value = '';
+  document.getElementById("message").value = '';
 }

@@ -16,6 +16,7 @@ a{
 .makebold{
   font-weight:600;
   margin-right:10px;
+  border-bottom:2px solid #ffffff;
 }
 .makebold.active{
   border-bottom:2px solid #ff6d41;
