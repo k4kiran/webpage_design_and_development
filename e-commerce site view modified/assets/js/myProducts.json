@@ -1,0 +1,402 @@
+myProducts = [
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "Condimentum Libero",
+    "itemCategory": "Furniture",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1":"",
+    "itemPrice2": 120
+  },
+  {
+    "imageUrl": "assets/images/latest-furniture-03.jpg",
+    "imageBadge":"",
+    "itemTitle": "Dapibus Mollis Risus",
+    "itemCategory": "Furniture",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice": 55,
+    "itemPrice1": "",
+    "itemPrice2": 50
+  },
+  {
+    "imageUrl": "assets/images/prod-img-14.jpg",
+    "imageBadge":"",
+    "itemTitle": "Dapibus MOllis risuss",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": "",
+    "itemPrice2": 76
+  },
+  {
+    "imageUrl": "assets/images/prod-img-15.jpg",
+    "imageBadge":"",
+    "itemTitle": "Erat Accumsan lorem",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": "",
+    "itemPrice2": 90
+  },
+  {
+    "imageUrl": "assets/images/prod-img-06.jpg",
+    "imageBadge":"",
+    "itemTitle": "Feugiat Gravida Odio",
+    "itemCategory": "Essentials",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":250,
+    "itemPrice1": "",
+    "itemPrice2": 150
+  },
+  {
+    "imageUrl": "assets/images/erados-decor-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "Gravida QuamVolutpat",
+    "itemCategory": "Office",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1":"",
+    "itemPrice2": 94
+  },
+  {
+    "imageUrl": "assets/images/prod-img-13.jpg",
+    "imageBadge":"",
+    "itemTitle": "Hella Jongerius Special",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": "",
+    "itemPrice2": 90
+  },
+  {
+    "imageUrl": "assets/images/lighting-design-03.jpg",
+    "imageBadge":"",
+    "itemTitle": "Lorem Erat Accusmen",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": "",
+    "itemPrice2": 60
+  },
+  {
+    "imageUrl": "assets/images/lighting-design-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "Mauris Vestibulum",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 80,
+    "itemPrice2": 100
+  },
+  {
+    "imageUrl": "assets/images/prod-img-12.jpg",
+    "imageBadge":"",
+    "itemTitle": "Normann Copenhagen",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":99,
+    "itemPrice1": "",
+    "itemPrice2": 90
+  },
+  {
+    "imageUrl": "assets/images/prod-img-17.jpg",
+    "imageBadge":"",
+    "itemTitle": "Pellenthesque magna",
+    "itemCategory": "Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 300
+  },
+  {
+    "imageUrl": "assets/images/prod-img-11.jpg",
+    "imageBadge":"",
+    "itemTitle": "Pellenthisque Mattis",
+    "itemCategory": "Decor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": "",
+    "itemPrice2": 99
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-02.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-07.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-10.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-03.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-16.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/erados-decor-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/lighting-design-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-02.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-12.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-14.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-05.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-13.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-02.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/lighting-design-02.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-08.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/prod-img-06.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  },    
+  {
+    "imageUrl": "assets/images/latest-furniture-01.jpg",
+    "imageBadge":"",
+    "itemTitle": "wildcraft",
+    "itemCategory": "Bags",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "discountPrice":"",
+    "itemPrice1": 100,
+    "itemPrice2": 120
+  } 
+  ]
