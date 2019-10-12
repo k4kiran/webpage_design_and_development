@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<!-- ============ Website to input url and parse the json response ==============-->
+<html lang = "en">
+<head>
+  <!-- ============ META INFO ==============-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- ============ TITLE ==============-->
+  <title>Json parser</title>
+  <link rel = "icon" href =  
+  "https://cdn.imgbin.com/22/20/3/imgbin-json-logo-product-design-parsing-organization-atom-text-editor-mac-FGw6K8Lz5XCfFL3Dk3CGuw0bX.jpg" 
+          type = "image/x-icon"> 
+  
+  <!-- ============ CSS ==============-->
+
+  <!-------- Boostrap CSS -------->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  
+  <!-------- Custom Styles -------->
+  <link href="assets/css/style.css" type="text/css" rel="stylesheet" />
+
+</head>
+<body>
+
+  <!-- ============ main section ==============-->
+  <main class="container mainclass">
+      <h1 class="mainheading muted">Get Json From URL</h1>
+
+    <!-- Underlined search bars with buttons -->
+    <form>
+      <div class="row mb-4">
+        <div class="form-group search col-md-9">
+          <input id="searchInput" type="text" placeholder="What URL you searching for?" class="form-control form-control-underlined">
+        </div>
+        <div class="form-group col-md-3">
+          <button type="button" class="btn btn-secondary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl()">Get Json</button>
+        </div>
+      </div>
+
+      <div class="card row displaybox">
+        <div class="col-md-9">
+          <h3 class="muted outputh3">Response Json</h3>
+        </div>
+        <div class="form-group-inline reset col-md-3 offset-8">
+          <button type="button" class="btn btn-primary rounded-pill btn-block shadow-sm" onclick="resetData()">Clear data</button>
+        </div> 
+        <pre class="displayjson"></pre>
+      </div>
+    </form>
+  </main>
+
+  <!-- ============ SCRIPTS ==============-->
+
+    <!-------- Jquery CDN -------->
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    
+    <!-------- CUSTOM JS -------->  
+    <script src="assets/js/main.js" type="text/javascript"></script>
+
+</body>
+</html>
+
+
