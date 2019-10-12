@@ -42,8 +42,10 @@ color:#ffffff;
 }
 .outputh3{
   text-align: center;
-  color:rgb(179, 255, 80);   
+  color:rgb(179, 255, 80);  
+  display:none; 
 }
 .reset{
   text-align: right;
+  display:none;
 }
