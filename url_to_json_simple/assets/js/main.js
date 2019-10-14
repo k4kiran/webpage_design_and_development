@@ -5,6 +5,11 @@ function jsonFromUrl()
   $.getJSON(myurl, function(data) {
         console.log(JSON.stringify(data));
         json_data = JSON.stringify(data, null, 4);
+	json_data1 = JSON.parse(json_data);
+        console.log(json_data1['Id']);
+        console.log(json_data1['Text']);
+        console.log(json_data1['Score']);
+        console.log(json_data1['Category']);
         $(".outputh3").css("display","block");
         $(".reset").css("display","block");
         $(".displayjson").html(json_data);

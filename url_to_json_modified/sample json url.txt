@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/ljharb/json-file-plus/master/package.json
