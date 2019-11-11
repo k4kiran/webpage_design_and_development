@@ -33,21 +33,12 @@
     <form>
       <div class="row mb-4">
         <div class="form-group search col-md-9">
-          <input id="searchInput" type="text" placeholder="What URL you searching for?" class="form-control form-control-underlined">
+          <input id="searchInput" type="text" placeholder="Enter your filename" class="form-control form-control-underlined">
         </div>
         <div class="form-group col-md-3">
-          <button type="button" class="btn btn-secondary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl()">Get Json</button>
+          <button type="button" class="btn btn-secondary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl()">start textract</button>
         </div>
       </div>
-
-<!--testing upload-->
-
-      <form method="post" action="https://dyrynda-upload.s3.amazonaws.com" enctype="multipart/form-data">
-        <input type="hidden" name="key" value="${filename}">
-        <input type="file" name="file">
-        <button type="submit">Upload</button>
-      </form>
-
 
 
       <div class="card row displaybox">
@@ -60,6 +51,41 @@
         <pre class="displayjson"></pre>
       </div>
     </form>
+
+    <!-- Underlined search bars with buttons -->
+    <form class="secondform">
+      <div class="row mb-4 mt-4">
+        <div class="form-group search col-md-9">
+          <input id="searchInput2" type="text" placeholder="What URL you searching for?" class="form-control form-control-underlined">
+        </div>
+        <div class="form-group col-md-3">
+          <button type="button" class="btn btn-secondary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl2()">textract result</button>
+        </div>
+      </div>
+    </form>
+    <div class= displayjson2></div>
+    <div class="getcompbutton form-group-inline reset col-md-3 offset-8">
+        <button type="button" class="btn btn-primary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl3()">start comprehend</button>
+    </div> 
+    <pre class="displayjson3"></pre>
+
+    <form class="thirdform">
+      <div class="row mb-4 mt-4">
+        <div class="form-group search col-md-9">
+          <input id="searchInput3" type="text" placeholder="What URL you searching for?" class="form-control form-control-underlined">
+        </div>
+        <div class="compcheckbutton form-group col-md-3">
+          <button type="button" class="btn btn-secondary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl4()">comprehend status</button>
+        </div>
+      </div>
+    </form>
+    <pre class="displayjson4"></pre>
+    <div class="resultbutton form-group-inline reset col-md-3 offset-8">
+        <button type="button" class="btn btn-primary rounded-pill btn-block shadow-sm" onclick="jsonFromUrl5()">comprehend result</button>
+    </div> 
+    <pre class="displayjson5"></pre>
+
+
   </main>
 
   <!-- ============ SCRIPTS ==============-->

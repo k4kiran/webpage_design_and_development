@@ -6,6 +6,7 @@ function jsonFromUrl()
         console.log(JSON.stringify(data));
         json_data = JSON.stringify(data, null, 4);
 	json_data1 = JSON.parse(json_data);
+	console.log(json_data1['JobId']);
         console.log(json_data1['Id']);
         console.log(json_data1['Text']);
         console.log(json_data1['Score']);
