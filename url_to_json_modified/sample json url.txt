@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/ljharb/json-file-plus/master/package.json
+
+http://medicardia-proto.s3-website-us-east-1.amazonaws.com/
