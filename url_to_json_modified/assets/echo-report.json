@@ -1,0 +1,6783 @@
+﻿{
+  "Entities": [
+    {
+      "Id": 27,
+      "BeginOffset": 1,
+      "EndOffset": 23,
+      "Score": 0.99142224,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 28,
+      "BeginOffset": 24,
+      "EndOffset": 54,
+      "Score": 0.9852165,
+      "Text": "St. Catherine's Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 29,
+      "BeginOffset": 55,
+      "EndOffset": 107,
+      "Score": 0.9992779,
+      "Text": "6308 Eighth Avenue Kenosha, WI 53143 Froedtert South",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 30,
+      "BeginOffset": 108,
+      "EndOffset": 151,
+      "Score": 0.9987154,
+      "Text": "9555 76th Street Pleasant Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 31,
+      "BeginOffset": 152,
+      "EndOffset": 166,
+      "Score": 0.99977154,
+      "Text": "(262) 656-2011",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 32,
+      "BeginOffset": 167,
+      "EndOffset": 181,
+      "Score": 0.9718127,
+      "Text": "(262) 577-8000",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 33,
+      "BeginOffset": 211,
+      "EndOffset": 221,
+      "Score": 0.9960919,
+      "Text": "03-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 34,
+      "BeginOffset": 241,
+      "EndOffset": 251,
+      "Score": 0.99896705,
+      "Text": "02-22-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 0,
+      "BeginOffset": 258,
+      "EndOffset": 272,
+      "Score": 0.9393417,
+      "Text": "Echocardiogram",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 1,
+      "BeginOffset": 292,
+      "EndOffset": 306,
+      "Score": 0.98706555,
+      "Text": "Echocardiogram",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 35,
+      "BeginOffset": 322,
+      "EndOffset": 344,
+      "Score": 0.9937722,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 36,
+      "BeginOffset": 345,
+      "EndOffset": 368,
+      "Score": 0.96901345,
+      "Text": "St. Catherine's Medical",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 37,
+      "BeginOffset": 369,
+      "EndOffset": 391,
+      "Score": 0.9967443,
+      "Text": "6308 8th Avenue Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 38,
+      "BeginOffset": 392,
+      "EndOffset": 416,
+      "Score": 0.99746585,
+      "Text": "Kenosha, Wisconsin 53143",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 39,
+      "BeginOffset": 417,
+      "EndOffset": 433,
+      "Score": 0.98082894,
+      "Text": "9555 76th Street",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 40,
+      "BeginOffset": 441,
+      "EndOffset": 455,
+      "Score": 0.9992111,
+      "Text": "(262) 656-3120",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 41,
+      "BeginOffset": 465,
+      "EndOffset": 482,
+      "Score": 0.91613317,
+      "Text": "Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 42,
+      "BeginOffset": 490,
+      "EndOffset": 504,
+      "Score": 0.99796665,
+      "Text": "(262) 577-8131",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 2,
+      "BeginOffset": 505,
+      "EndOffset": 519,
+      "Score": 0.8400412,
+      "Text": "Echocardiogram",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 43,
+      "BeginOffset": 533,
+      "EndOffset": 548,
+      "Score": 0.9997422,
+      "Text": "Azuma, Steven A",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 44,
+      "BeginOffset": 555,
+      "EndOffset": 565,
+      "Score": 0.9990845,
+      "Text": "02/22/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 3,
+      "BeginOffset": 566,
+      "EndOffset": 571,
+      "Score": 0.8320982,
+      "Text": "Ht/Wt",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5787046,
+          "RelationshipScore": 0.9999014,
+          "Id": 4,
+          "BeginOffset": 574,
+          "EndOffset": 578,
+          "Text": "66.9",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 45,
+      "BeginOffset": 605,
+      "EndOffset": 613,
+      "Score": 0.739265,
+      "Text": "00238346",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 46,
+      "BeginOffset": 642,
+      "EndOffset": 652,
+      "Score": 0.9997764,
+      "Text": "03/02/1944",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 5,
+      "BeginOffset": 665,
+      "EndOffset": 667,
+      "Score": 0.62799466,
+      "Text": "BP",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9842062,
+          "RelationshipScore": 1,
+          "Id": 6,
+          "BeginOffset": 669,
+          "EndOffset": 677,
+          "Text": "128 / 56",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 47,
+      "BeginOffset": 737,
+      "EndOffset": 750,
+      "Score": 0.99890876,
+      "Text": "Fullin, Kevin",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 48,
+      "BeginOffset": 789,
+      "EndOffset": 799,
+      "Score": 0.7133756,
+      "Text": "Holm, Kari",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 60,
+      "BeginOffset": 823,
+      "EndOffset": 827,
+      "Score": 0.41338792,
+      "Text": "Weak",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 61,
+      "BeginOffset": 836,
+      "EndOffset": 839,
+      "Score": 0.6705403,
+      "Text": "AI.",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 72,
+      "BeginOffset": 853,
+      "EndOffset": 865,
+      "Score": 0.9275488,
+      "Text": "Aortic Valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 62,
+      "BeginOffset": 853,
+      "EndOffset": 874,
+      "Score": 0.99172956,
+      "Text": "Aortic Valve Disorder",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.97599787
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 63,
+      "BeginOffset": 876,
+      "EndOffset": 896,
+      "Score": 0.98551637,
+      "Text": "Aortic Regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.9629385
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 64,
+      "BeginOffset": 912,
+      "EndOffset": 924,
+      "Score": 0.6832788,
+      "Text": "Hypertension",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.77210736
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 65,
+      "BeginOffset": 925,
+      "EndOffset": 936,
+      "Score": 0.876698,
+      "Text": "yslipidemia",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.722882
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 7,
+      "BeginOffset": 938,
+      "EndOffset": 942,
+      "Score": 0.6879668,
+      "Text": "Labs",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 8,
+      "BeginOffset": 950,
+      "EndOffset": 955,
+      "Score": 0.69672525,
+      "Text": "tests",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 9,
+      "BeginOffset": 973,
+      "EndOffset": 980,
+      "Score": 0.65213406,
+      "Text": "surgery",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "PROCEDURE_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 10,
+      "BeginOffset": 982,
+      "EndOffset": 998,
+      "Score": 0.99102694,
+      "Text": "Echocardiography",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 49,
+      "BeginOffset": 1000,
+      "EndOffset": 1010,
+      "Score": 0.99994993,
+      "Text": "04/16/2018",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 11,
+      "BeginOffset": 1012,
+      "EndOffset": 1014,
+      "Score": 0.59494644,
+      "Text": "EF",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.53678966,
+          "RelationshipScore": 0.9999969,
+          "Id": 12,
+          "BeginOffset": 1019,
+          "EndOffset": 1021,
+          "Text": "60",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_UNIT",
+          "Score": 0.99285126,
+          "RelationshipScore": 1,
+          "Id": 13,
+          "BeginOffset": 1021,
+          "EndOffset": 1022,
+          "Text": "%",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.37055624,
+          "RelationshipScore": 0.9665486,
+          "Id": 14,
+          "BeginOffset": 1064,
+          "EndOffset": 1091,
+          "Text": "Systolic function is normal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5648352,
+          "RelationshipScore": 0.99209106,
+          "Id": 15,
+          "BeginOffset": 1097,
+          "EndOffset": 1131,
+          "Text": "estimated ejection fraction is 60%",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9645311,
+          "RelationshipScore": 0.99929,
+          "Id": 16,
+          "BeginOffset": 1133,
+          "EndOffset": 1154,
+          "Text": "Wall motion is normal",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 74,
+      "BeginOffset": 1053,
+      "EndOffset": 1062,
+      "Score": 0.94591373,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 66,
+      "BeginOffset": 1064,
+      "EndOffset": 1091,
+      "Score": 0.683747,
+      "Text": "Systolic function is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.90151876
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 75,
+      "BeginOffset": 1169,
+      "EndOffset": 1182,
+      "Score": 0.45794317,
+      "Text": "regional wall",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 67,
+      "BeginOffset": 1178,
+      "EndOffset": 1203,
+      "Score": 0.47333178,
+      "Text": "wall motion abnormalities",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.95723367
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9419636
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 76,
+      "BeginOffset": 1209,
+      "EndOffset": 1215,
+      "Score": 0.55679643,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 68,
+      "BeginOffset": 1209,
+      "EndOffset": 1230,
+      "Score": 0.40788755,
+      "Text": "cavity size is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.91700953
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 69,
+      "BeginOffset": 1232,
+      "EndOffset": 1246,
+      "Score": 0.4074434,
+      "Text": "Wall thickness",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.52741355
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 78,
+      "BeginOffset": 1277,
+      "EndOffset": 1286,
+      "Score": 0.9350634,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 79,
+      "BeginOffset": 1292,
+      "EndOffset": 1298,
+      "Score": 0.48678315,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 70,
+      "BeginOffset": 1320,
+      "EndOffset": 1339,
+      "Score": 0.38605627,
+      "Text": "thickness is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9098821
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 22,
+      "BeginOffset": 1341,
+      "EndOffset": 1358,
+      "Score": 0.7693829,
+      "Text": "Systolic pressure",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9666076,
+          "RelationshipScore": 0.99999,
+          "Id": 23,
+          "BeginOffset": 1362,
+          "EndOffset": 1378,
+          "Text": "mildly increased",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 71,
+      "BeginOffset": 1341,
+      "EndOffset": 1378,
+      "Score": 0.7091689,
+      "Text": "Systolic pressure is mildly increased",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.87951607
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 80,
+      "BeginOffset": 1380,
+      "EndOffset": 1382,
+      "Score": 0.33406752,
+      "Text": "RV",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 24,
+      "BeginOffset": 1380,
+      "EndOffset": 1400,
+      "Score": 0.838841,
+      "Text": "RV systolic pressure",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9015032,
+          "RelationshipScore": 1,
+          "Id": 25,
+          "BeginOffset": 1402,
+          "EndOffset": 1410,
+          "Text": "48 mm Hg",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.30371594,
+          "RelationshipScore": 0.9999505,
+          "Id": 26,
+          "BeginOffset": 1423,
+          "EndOffset": 1458,
+          "Text": "Aortic valve: The valve is bicuspid",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 81,
+      "BeginOffset": 1423,
+      "EndOffset": 1435,
+      "Score": 0.9800657,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 82,
+      "BeginOffset": 1441,
+      "EndOffset": 1446,
+      "Score": 0.41125095,
+      "Text": "valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 50,
+      "BeginOffset": 1491,
+      "EndOffset": 1510,
+      "Score": 0.37523237,
+      "Text": "Choudhuri, Indrajit",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 51,
+      "BeginOffset": 1530,
+      "EndOffset": 1543,
+      "Score": 0.3070633,
+      "Text": "MCC-Radiology",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 52,
+      "BeginOffset": 1546,
+      "EndOffset": 1558,
+      "Score": 0.96315676,
+      "Text": "Mar-16-20190",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 53,
+      "BeginOffset": 1578,
+      "EndOffset": 1600,
+      "Score": 0.9980149,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 54,
+      "BeginOffset": 1601,
+      "EndOffset": 1631,
+      "Score": 0.97676075,
+      "Text": "St. Catherine's Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 55,
+      "BeginOffset": 1632,
+      "EndOffset": 1684,
+      "Score": 0.9987513,
+      "Text": "6308 Eighth Avenue Kenosha, WI 53143 Froedtert South",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 56,
+      "BeginOffset": 1685,
+      "EndOffset": 1728,
+      "Score": 0.9990701,
+      "Text": "9555 76th Street Pleasant Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 57,
+      "BeginOffset": 1729,
+      "EndOffset": 1743,
+      "Score": 0.9999101,
+      "Text": "(262) 656-2011",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 58,
+      "BeginOffset": 1744,
+      "EndOffset": 1758,
+      "Score": 0.9068038,
+      "Text": "(262) 577-8000",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 59,
+      "BeginOffset": 1788,
+      "EndOffset": 1798,
+      "Score": 0.99010956,
+      "Text": "03-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 116,
+      "BeginOffset": 1818,
+      "EndOffset": 1828,
+      "Score": 0.99931276,
+      "Text": "02-22-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 83,
+      "BeginOffset": 1835,
+      "EndOffset": 1849,
+      "Score": 0.9700155,
+      "Text": "Echocardiogram",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 84,
+      "BeginOffset": 1869,
+      "EndOffset": 1883,
+      "Score": 0.9909751,
+      "Text": "Echocardiogram",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 117,
+      "BeginOffset": 1899,
+      "EndOffset": 1921,
+      "Score": 0.99320567,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 118,
+      "BeginOffset": 1922,
+      "EndOffset": 1945,
+      "Score": 0.96979594,
+      "Text": "St. Catherine's Medical",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 119,
+      "BeginOffset": 1946,
+      "EndOffset": 1968,
+      "Score": 0.99170494,
+      "Text": "6308 8th Avenue Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 120,
+      "BeginOffset": 1969,
+      "EndOffset": 1993,
+      "Score": 0.99848586,
+      "Text": "Kenosha, Wisconsin 53143",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 121,
+      "BeginOffset": 1994,
+      "EndOffset": 2010,
+      "Score": 0.9777975,
+      "Text": "9555 76th Street",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 122,
+      "BeginOffset": 2018,
+      "EndOffset": 2032,
+      "Score": 0.9989827,
+      "Text": "(262) 656-3120",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 123,
+      "BeginOffset": 2042,
+      "EndOffset": 2059,
+      "Score": 0.906897,
+      "Text": "Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 124,
+      "BeginOffset": 2067,
+      "EndOffset": 2081,
+      "Score": 0.9979551,
+      "Text": "(262) 577-8131",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 85,
+      "BeginOffset": 2082,
+      "EndOffset": 2096,
+      "Score": 0.851724,
+      "Text": "Echocardiogram",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 125,
+      "BeginOffset": 2110,
+      "EndOffset": 2125,
+      "Score": 0.99973553,
+      "Text": "Azuma, Steven A",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 126,
+      "BeginOffset": 2132,
+      "EndOffset": 2142,
+      "Score": 0.99908316,
+      "Text": "02/22/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 86,
+      "BeginOffset": 2143,
+      "EndOffset": 2148,
+      "Score": 0.845152,
+      "Text": "Ht/Wt",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.61557615,
+          "RelationshipScore": 0.9998522,
+          "Id": 87,
+          "BeginOffset": 2151,
+          "EndOffset": 2155,
+          "Text": "66.9",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 127,
+      "BeginOffset": 2182,
+      "EndOffset": 2190,
+      "Score": 0.7263417,
+      "Text": "00238346",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 128,
+      "BeginOffset": 2219,
+      "EndOffset": 2229,
+      "Score": 0.99978644,
+      "Text": "03/02/1944",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 88,
+      "BeginOffset": 2242,
+      "EndOffset": 2244,
+      "Score": 0.6551267,
+      "Text": "BP",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.98661256,
+          "RelationshipScore": 1,
+          "Id": 89,
+          "BeginOffset": 2246,
+          "EndOffset": 2254,
+          "Text": "128 / 56",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 129,
+      "BeginOffset": 2314,
+      "EndOffset": 2327,
+      "Score": 0.9989085,
+      "Text": "Fullin, Kevin",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 130,
+      "BeginOffset": 2366,
+      "EndOffset": 2376,
+      "Score": 0.70977116,
+      "Text": "Holm, Kari",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 142,
+      "BeginOffset": 2400,
+      "EndOffset": 2404,
+      "Score": 0.40348765,
+      "Text": "Weak",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 143,
+      "BeginOffset": 2413,
+      "EndOffset": 2416,
+      "Score": 0.6656255,
+      "Text": "AI.",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 160,
+      "BeginOffset": 2430,
+      "EndOffset": 2442,
+      "Score": 0.9377958,
+      "Text": "Aortic Valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 144,
+      "BeginOffset": 2430,
+      "EndOffset": 2451,
+      "Score": 0.9917522,
+      "Text": "Aortic Valve Disorder",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.9756211
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 145,
+      "BeginOffset": 2453,
+      "EndOffset": 2473,
+      "Score": 0.9855495,
+      "Text": "Aortic Regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.96247405
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 146,
+      "BeginOffset": 2489,
+      "EndOffset": 2501,
+      "Score": 0.686987,
+      "Text": "Hypertension",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.76829803
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 147,
+      "BeginOffset": 2502,
+      "EndOffset": 2513,
+      "Score": 0.88721126,
+      "Text": "yslipidemia",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.726451
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 90,
+      "BeginOffset": 2515,
+      "EndOffset": 2519,
+      "Score": 0.68861157,
+      "Text": "Labs",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 91,
+      "BeginOffset": 2527,
+      "EndOffset": 2532,
+      "Score": 0.6975457,
+      "Text": "tests",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 92,
+      "BeginOffset": 2550,
+      "EndOffset": 2557,
+      "Score": 0.6604438,
+      "Text": "surgery",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "PROCEDURE_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 93,
+      "BeginOffset": 2559,
+      "EndOffset": 2575,
+      "Score": 0.9910744,
+      "Text": "Echocardiography",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 131,
+      "BeginOffset": 2577,
+      "EndOffset": 2587,
+      "Score": 0.99995005,
+      "Text": "04/16/2018",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 94,
+      "BeginOffset": 2589,
+      "EndOffset": 2591,
+      "Score": 0.5873526,
+      "Text": "EF",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5342692,
+          "RelationshipScore": 0.9999981,
+          "Id": 95,
+          "BeginOffset": 2596,
+          "EndOffset": 2598,
+          "Text": "60",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_UNIT",
+          "Score": 0.9932046,
+          "RelationshipScore": 1,
+          "Id": 96,
+          "BeginOffset": 2598,
+          "EndOffset": 2599,
+          "Text": "%",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.38331023,
+          "RelationshipScore": 0.9168497,
+          "Id": 97,
+          "BeginOffset": 2641,
+          "EndOffset": 2668,
+          "Text": "Systolic function is normal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5729687,
+          "RelationshipScore": 0.99466974,
+          "Id": 98,
+          "BeginOffset": 2674,
+          "EndOffset": 2708,
+          "Text": "estimated ejection fraction is 60%",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9660664,
+          "RelationshipScore": 0.99906105,
+          "Id": 99,
+          "BeginOffset": 2710,
+          "EndOffset": 2731,
+          "Text": "Wall motion is normal",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 162,
+      "BeginOffset": 2630,
+      "EndOffset": 2639,
+      "Score": 0.9493364,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 148,
+      "BeginOffset": 2641,
+      "EndOffset": 2668,
+      "Score": 0.69986904,
+      "Text": "Systolic function is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.90072
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 163,
+      "BeginOffset": 2746,
+      "EndOffset": 2759,
+      "Score": 0.47536585,
+      "Text": "regional wall",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 149,
+      "BeginOffset": 2755,
+      "EndOffset": 2780,
+      "Score": 0.47719264,
+      "Text": "wall motion abnormalities",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9556471
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.94035596
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 164,
+      "BeginOffset": 2786,
+      "EndOffset": 2792,
+      "Score": 0.5706555,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 150,
+      "BeginOffset": 2786,
+      "EndOffset": 2807,
+      "Score": 0.41750774,
+      "Text": "cavity size is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.91539514
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 151,
+      "BeginOffset": 2809,
+      "EndOffset": 2823,
+      "Score": 0.41555616,
+      "Text": "Wall thickness",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.529689
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 166,
+      "BeginOffset": 2854,
+      "EndOffset": 2863,
+      "Score": 0.9403303,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 167,
+      "BeginOffset": 2869,
+      "EndOffset": 2875,
+      "Score": 0.5001065,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 152,
+      "BeginOffset": 2897,
+      "EndOffset": 2916,
+      "Score": 0.38789707,
+      "Text": "thickness is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9092309
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 105,
+      "BeginOffset": 2918,
+      "EndOffset": 2935,
+      "Score": 0.71441394,
+      "Text": "Systolic pressure",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9672518,
+          "RelationshipScore": 0.9999951,
+          "Id": 106,
+          "BeginOffset": 2939,
+          "EndOffset": 2955,
+          "Text": "mildly increased",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 153,
+      "BeginOffset": 2918,
+      "EndOffset": 2955,
+      "Score": 0.7869467,
+      "Text": "Systolic pressure is mildly increased",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8843503
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 168,
+      "BeginOffset": 2957,
+      "EndOffset": 2959,
+      "Score": 0.37056708,
+      "Text": "RV",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 107,
+      "BeginOffset": 2957,
+      "EndOffset": 2977,
+      "Score": 0.8114705,
+      "Text": "RV systolic pressure",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.90867454,
+          "RelationshipScore": 1,
+          "Id": 108,
+          "BeginOffset": 2979,
+          "EndOffset": 2987,
+          "Text": "48 mm Hg",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 169,
+      "BeginOffset": 3000,
+      "EndOffset": 3012,
+      "Score": 0.9836091,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 170,
+      "BeginOffset": 3018,
+      "EndOffset": 3023,
+      "Score": 0.48809,
+      "Text": "valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 132,
+      "BeginOffset": 3068,
+      "EndOffset": 3087,
+      "Score": 0.39035356,
+      "Text": "Choudhuri, Indrajit",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 133,
+      "BeginOffset": 3107,
+      "EndOffset": 3120,
+      "Score": 0.29948074,
+      "Text": "MCC-Radiology",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 134,
+      "BeginOffset": 3123,
+      "EndOffset": 3135,
+      "Score": 0.9635629,
+      "Text": "Mar-16-20190",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 135,
+      "BeginOffset": 3155,
+      "EndOffset": 3177,
+      "Score": 0.9980769,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 136,
+      "BeginOffset": 3178,
+      "EndOffset": 3208,
+      "Score": 0.9774939,
+      "Text": "St. Catherine's Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 137,
+      "BeginOffset": 3209,
+      "EndOffset": 3245,
+      "Score": 0.99861884,
+      "Text": "6308 Eighth Avenue Kenosha, WI 53143",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 138,
+      "BeginOffset": 3246,
+      "EndOffset": 3289,
+      "Score": 0.99858665,
+      "Text": "9555 76th Street Pleasant Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 139,
+      "BeginOffset": 3290,
+      "EndOffset": 3304,
+      "Score": 0.9996111,
+      "Text": "(262) 656-2011",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 140,
+      "BeginOffset": 3321,
+      "EndOffset": 3335,
+      "Score": 0.73231614,
+      "Text": "(262) 577-8000",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 141,
+      "BeginOffset": 3365,
+      "EndOffset": 3375,
+      "Score": 0.983833,
+      "Text": "03-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 154,
+      "BeginOffset": 3426,
+      "EndOffset": 3453,
+      "Score": 0.64743114,
+      "Text": "regurgitation Regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.6392369
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 171,
+      "BeginOffset": 3485,
+      "EndOffset": 3497,
+      "Score": 0.9177784,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 155,
+      "BeginOffset": 3517,
+      "EndOffset": 3530,
+      "Score": 0.7972643,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.6087804
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 172,
+      "BeginOffset": 3535,
+      "EndOffset": 3550,
+      "Score": 0.9457009,
+      "Text": "Tricuspid valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 156,
+      "BeginOffset": 3535,
+      "EndOffset": 3570,
+      "Score": 0.4737557,
+      "Text": "Tricuspid valve: Leaflet thickening",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.4664246
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.76583105
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 157,
+      "BeginOffset": 3581,
+      "EndOffset": 3610,
+      "Score": 0.41153583,
+      "Text": "moderate-severe regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.81582093
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 158,
+      "BeginOffset": 3615,
+      "EndOffset": 3629,
+      "Score": 0.4311633,
+      "Text": "Pulmonic valve",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.4274568
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 173,
+      "BeginOffset": 3615,
+      "EndOffset": 3629,
+      "Score": 0.82883906,
+      "Text": "Pulmonic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 159,
+      "BeginOffset": 3643,
+      "EndOffset": 3656,
+      "Score": 0.78046715,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "NEGATION",
+          "Score": 0.8159236
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 278,
+      "BeginOffset": 3668,
+      "EndOffset": 3672,
+      "Score": 0.7045167,
+      "Text": "root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 279,
+      "BeginOffset": 3678,
+      "EndOffset": 3689,
+      "Score": 0.99413943,
+      "Text": "aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 235,
+      "BeginOffset": 3678,
+      "EndOffset": 3704,
+      "Score": 0.5867166,
+      "Text": "aortic root is not dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7774339
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.6600958
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 281,
+      "BeginOffset": 3714,
+      "EndOffset": 3720,
+      "Score": 0.90539974,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 282,
+      "BeginOffset": 3726,
+      "EndOffset": 3732,
+      "Score": 0.85465825,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 236,
+      "BeginOffset": 3726,
+      "EndOffset": 3743,
+      "Score": 0.6262857,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.89354867
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 284,
+      "BeginOffset": 3754,
+      "EndOffset": 3760,
+      "Score": 0.9191618,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 285,
+      "BeginOffset": 3766,
+      "EndOffset": 3772,
+      "Score": 0.86656535,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 237,
+      "BeginOffset": 3766,
+      "EndOffset": 3783,
+      "Score": 0.65726495,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.90120894
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 238,
+      "BeginOffset": 3789,
+      "EndOffset": 3802,
+      "Score": 0.7261698,
+      "Text": "Atrial septum",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.60569936
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 286,
+      "BeginOffset": 3789,
+      "EndOffset": 3802,
+      "Score": 0.976689,
+      "Text": "Atrial septum",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 174,
+      "BeginOffset": 3804,
+      "EndOffset": 3822,
+      "Score": 0.72850823,
+      "Text": "Color flow Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.98662114,
+          "RelationshipScore": 1,
+          "Id": 175,
+          "BeginOffset": 3829,
+          "EndOffset": 3837,
+          "Text": "no shunt",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.4726287,
+          "RelationshipScore": 0.99999833,
+          "Id": 176,
+          "BeginOffset": 3843,
+          "EndOffset": 3884,
+          "Text": "Inferior vena cava: The vessel is dilated",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.40258557,
+          "RelationshipScore": 0.99999964,
+          "Id": 177,
+          "BeginOffset": 3890,
+          "EndOffset": 3949,
+          "Text": "Pericardium, extracardiac: There is no pericardial effusion",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 239,
+      "BeginOffset": 3804,
+      "EndOffset": 3837,
+      "Score": 0.35865018,
+      "Text": "Color flow Doppler shows no shunt",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.89342415
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.82970065
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 288,
+      "BeginOffset": 3852,
+      "EndOffset": 3861,
+      "Score": 0.9929605,
+      "Text": "vena cava",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 289,
+      "BeginOffset": 3867,
+      "EndOffset": 3873,
+      "Score": 0.9629396,
+      "Text": "vessel",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 240,
+      "BeginOffset": 3877,
+      "EndOffset": 3884,
+      "Score": 0.62626433,
+      "Text": "dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.6378224
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 290,
+      "BeginOffset": 3890,
+      "EndOffset": 3901,
+      "Score": 0.8968086,
+      "Text": "Pericardium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 291,
+      "BeginOffset": 3903,
+      "EndOffset": 3915,
+      "Score": 0.78573453,
+      "Text": "extracardiac",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 241,
+      "BeginOffset": 3929,
+      "EndOffset": 3949,
+      "Score": 0.9434907,
+      "Text": "pericardial effusion",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.89194065
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9838113
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 179,
+      "BeginOffset": 4039,
+      "EndOffset": 4044,
+      "Score": 0.2867917,
+      "Text": "Study",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 180,
+      "BeginOffset": 4051,
+      "EndOffset": 4063,
+      "Score": 0.60772955,
+      "Text": "Study status",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 181,
+      "BeginOffset": 4074,
+      "EndOffset": 4084,
+      "Score": 0.55448127,
+      "Text": "ECG rhythm",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.8591688,
+          "RelationshipScore": 0.99502414,
+          "Id": 182,
+          "BeginOffset": 4086,
+          "EndOffset": 4106,
+          "Text": "Junctional Procedure",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 183,
+      "BeginOffset": 4108,
+      "EndOffset": 4138,
+      "Score": 0.98835933,
+      "Text": "Transthoracic echocardiography",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.8591688,
+          "RelationshipScore": 0.64541286,
+          "Id": 182,
+          "BeginOffset": 4086,
+          "EndOffset": 4106,
+          "Text": "Junctional Procedure",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 184,
+      "BeginOffset": 4140,
+      "EndOffset": 4146,
+      "Score": 0.94963074,
+      "Text": "Images",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 185,
+      "BeginOffset": 4182,
+      "EndOffset": 4200,
+      "Score": 0.80378616,
+      "Text": "cardiac ultrasound",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 186,
+      "BeginOffset": 4210,
+      "EndOffset": 4223,
+      "Score": 0.64992195,
+      "Text": "Image quality",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.7656826,
+          "RelationshipScore": 0.9994357,
+          "Id": 187,
+          "BeginOffset": 4228,
+          "EndOffset": 4232,
+          "Text": "good",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.44085714,
+          "RelationshipScore": 0.81136936,
+          "Id": 188,
+          "BeginOffset": 4234,
+          "EndOffset": 4286,
+          "Text": "Findings Left ventricle: Systolic function is normal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.97108555,
+          "RelationshipScore": 0.99730337,
+          "Id": 190,
+          "BeginOffset": 4328,
+          "EndOffset": 4349,
+          "Text": "Wall motion is normal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.98409593,
+          "RelationshipScore": 0.99845195,
+          "Id": 191,
+          "BeginOffset": 4361,
+          "EndOffset": 4398,
+          "Text": "no regional wall motion abnormalities",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 293,
+      "BeginOffset": 4248,
+      "EndOffset": 4257,
+      "Score": 0.97201174,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 242,
+      "BeginOffset": 4259,
+      "EndOffset": 4286,
+      "Score": 0.6032052,
+      "Text": "Systolic function is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8806976
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 294,
+      "BeginOffset": 4364,
+      "EndOffset": 4377,
+      "Score": 0.60250205,
+      "Text": "regional wall",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 243,
+      "BeginOffset": 4373,
+      "EndOffset": 4398,
+      "Score": 0.44956136,
+      "Text": "wall motion abnormalities",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9472521
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.93172956
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 295,
+      "BeginOffset": 4404,
+      "EndOffset": 4410,
+      "Score": 0.63256186,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 244,
+      "BeginOffset": 4404,
+      "EndOffset": 4425,
+      "Score": 0.43164805,
+      "Text": "cavity size is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9047877
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 245,
+      "BeginOffset": 4427,
+      "EndOffset": 4461,
+      "Score": 0.44091383,
+      "Text": "Wall thickness is mildly increased",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.92399025
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 297,
+      "BeginOffset": 4469,
+      "EndOffset": 4478,
+      "Score": 0.96019506,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 298,
+      "BeginOffset": 4484,
+      "EndOffset": 4490,
+      "Score": 0.5614209,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 246,
+      "BeginOffset": 4512,
+      "EndOffset": 4531,
+      "Score": 0.46419555,
+      "Text": "thickness is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9077342
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 247,
+      "BeginOffset": 4533,
+      "EndOffset": 4560,
+      "Score": 0.8978975,
+      "Text": "Systolic function is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9181025
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 248,
+      "BeginOffset": 4562,
+      "EndOffset": 4599,
+      "Score": 0.8499214,
+      "Text": "Systolic pressure is mildly increased",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9377968
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 300,
+      "BeginOffset": 4606,
+      "EndOffset": 4612,
+      "Score": 0.96884614,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 249,
+      "BeginOffset": 4614,
+      "EndOffset": 4629,
+      "Score": 0.81479436,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.94309855
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 301,
+      "BeginOffset": 4635,
+      "EndOffset": 4641,
+      "Score": 0.90370274,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 250,
+      "BeginOffset": 4635,
+      "EndOffset": 4652,
+      "Score": 0.8394565,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9281105
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 303,
+      "BeginOffset": 4660,
+      "EndOffset": 4666,
+      "Score": 0.9641444,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 251,
+      "BeginOffset": 4668,
+      "EndOffset": 4683,
+      "Score": 0.76174855,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9364558
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 304,
+      "BeginOffset": 4689,
+      "EndOffset": 4695,
+      "Score": 0.9157748,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 252,
+      "BeginOffset": 4689,
+      "EndOffset": 4706,
+      "Score": 0.82653666,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9212936
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 305,
+      "BeginOffset": 4708,
+      "EndOffset": 4721,
+      "Score": 0.9848968,
+      "Text": "Atrial septum",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 253,
+      "BeginOffset": 4708,
+      "EndOffset": 4721,
+      "Score": 0.8690142,
+      "Text": "Atrial septum",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.67138493
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 254,
+      "BeginOffset": 4723,
+      "EndOffset": 4756,
+      "Score": 0.4739333,
+      "Text": "Color flow Doppler shows no shunt",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.913667
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.85716385
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 306,
+      "BeginOffset": 4758,
+      "EndOffset": 4770,
+      "Score": 0.9900996,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 255,
+      "BeginOffset": 4758,
+      "EndOffset": 4787,
+      "Score": 0.8390324,
+      "Text": "Mitral valve: Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9434101
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 307,
+      "BeginOffset": 4793,
+      "EndOffset": 4801,
+      "Score": 0.31194097,
+      "Text": "leaflets",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 256,
+      "BeginOffset": 4793,
+      "EndOffset": 4826,
+      "Score": 0.5644373,
+      "Text": "leaflets are moderately thickened",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9320984
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 257,
+      "BeginOffset": 4828,
+      "EndOffset": 4856,
+      "Score": 0.8372845,
+      "Text": "Leaflet separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9053006
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 206,
+      "BeginOffset": 4858,
+      "EndOffset": 4865,
+      "Score": 0.7517727,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9784846,
+          "RelationshipScore": 0.99968565,
+          "Id": 207,
+          "BeginOffset": 4867,
+          "EndOffset": 4916,
+          "Text": "Transvalvular velocity is within the normal range",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9803088,
+          "RelationshipScore": 0.9773538,
+          "Id": 208,
+          "BeginOffset": 4927,
+          "EndOffset": 4951,
+          "Text": "no evidence for stenosis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9785671,
+          "RelationshipScore": 0.9928046,
+          "Id": 209,
+          "BeginOffset": 4962,
+          "EndOffset": 4984,
+          "Text": "moderate regurgitation",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.96352196,
+          "RelationshipScore": 0.67335546,
+          "Id": 210,
+          "BeginOffset": 4986,
+          "EndOffset": 5018,
+          "Text": "Tricuspid valve: Well visualized",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.98885226,
+          "RelationshipScore": 0.93228394,
+          "Id": 211,
+          "BeginOffset": 5020,
+          "EndOffset": 5038,
+          "Text": "Leaflet thickening",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 258,
+      "BeginOffset": 4867,
+      "EndOffset": 4916,
+      "Score": 0.77394456,
+      "Text": "Transvalvular velocity is within the normal range",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7114037
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 259,
+      "BeginOffset": 4943,
+      "EndOffset": 4951,
+      "Score": 0.9820202,
+      "Text": "stenosis",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7707899
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9686669
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 260,
+      "BeginOffset": 4971,
+      "EndOffset": 4984,
+      "Score": 0.9076049,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.6838361
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 308,
+      "BeginOffset": 4986,
+      "EndOffset": 5001,
+      "Score": 0.9672789,
+      "Text": "Tricuspid valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 261,
+      "BeginOffset": 4986,
+      "EndOffset": 5001,
+      "Score": 0.6048612,
+      "Text": "Tricuspid valve",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 262,
+      "BeginOffset": 5003,
+      "EndOffset": 5018,
+      "Score": 0.6815748,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9024521
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 263,
+      "BeginOffset": 5020,
+      "EndOffset": 5038,
+      "Score": 0.86957586,
+      "Text": "Leaflet thickening",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8716621
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 264,
+      "BeginOffset": 5040,
+      "EndOffset": 5068,
+      "Score": 0.8010815,
+      "Text": "Leaflet separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8894575
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 213,
+      "BeginOffset": 5070,
+      "EndOffset": 5077,
+      "Score": 0.75288063,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.97880584,
+          "RelationshipScore": 0.97452205,
+          "Id": 214,
+          "BeginOffset": 5079,
+          "EndOffset": 5128,
+          "Text": "Transvalvular velocity is within the normal range",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9786178,
+          "RelationshipScore": 0.8668164,
+          "Id": 215,
+          "BeginOffset": 5139,
+          "EndOffset": 5163,
+          "Text": "no evidence for stenosis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.93472385,
+          "RelationshipScore": 0.9876889,
+          "Id": 218,
+          "BeginOffset": 5240,
+          "EndOffset": 5295,
+          "Text": "valve is bicuspid The leaflets are moderately calcified",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 265,
+      "BeginOffset": 5079,
+      "EndOffset": 5128,
+      "Score": 0.7309537,
+      "Text": "Transvalvular velocity is within the normal range",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7194443
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 266,
+      "BeginOffset": 5155,
+      "EndOffset": 5163,
+      "Score": 0.98114383,
+      "Text": "stenosis",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7593096
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9681787
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 267,
+      "BeginOffset": 5174,
+      "EndOffset": 5203,
+      "Score": 0.49559706,
+      "Text": "moderate-severe regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.63460225
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 309,
+      "BeginOffset": 5205,
+      "EndOffset": 5217,
+      "Score": 0.99096066,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 268,
+      "BeginOffset": 5205,
+      "EndOffset": 5234,
+      "Score": 0.57116663,
+      "Text": "Aortic valve: Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9216111
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 310,
+      "BeginOffset": 5240,
+      "EndOffset": 5245,
+      "Score": 0.80261755,
+      "Text": "valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 269,
+      "BeginOffset": 5240,
+      "EndOffset": 5270,
+      "Score": 0.36035973,
+      "Text": "valve is bicuspid The leaflets",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7100825
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 270,
+      "BeginOffset": 5286,
+      "EndOffset": 5295,
+      "Score": 0.73950714,
+      "Text": "calcified",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.64101386
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 271,
+      "BeginOffset": 5297,
+      "EndOffset": 5322,
+      "Score": 0.8577946,
+      "Text": "Cusp separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9031824
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 220,
+      "BeginOffset": 5324,
+      "EndOffset": 5331,
+      "Score": 0.7539951,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.97573745,
+          "RelationshipScore": 0.9978879,
+          "Id": 221,
+          "BeginOffset": 5333,
+          "EndOffset": 5382,
+          "Text": "Transvalvular velocity is within the normal range",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9423931,
+          "RelationshipScore": 0.7634669,
+          "Id": 222,
+          "BeginOffset": 5393,
+          "EndOffset": 5404,
+          "Text": "no stenosis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.94515383,
+          "RelationshipScore": 0.80237997,
+          "Id": 223,
+          "BeginOffset": 5415,
+          "EndOffset": 5435,
+          "Text": "severe regurgitation",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9621177,
+          "RelationshipScore": 0.92043155,
+          "Id": 224,
+          "BeginOffset": 5437,
+          "EndOffset": 5468,
+          "Text": "Pulmonic valve: Well visualized",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.88472354,
+          "RelationshipScore": 0.81331086,
+          "Id": 225,
+          "BeginOffset": 5474,
+          "EndOffset": 5502,
+          "Text": "valve is structurally normal",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 272,
+      "BeginOffset": 5333,
+      "EndOffset": 5382,
+      "Score": 0.70464647,
+      "Text": "Transvalvular velocity is within the normal range",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.78834707
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 273,
+      "BeginOffset": 5396,
+      "EndOffset": 5404,
+      "Score": 0.9759552,
+      "Text": "stenosis",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8498654
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9704753
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 274,
+      "BeginOffset": 5422,
+      "EndOffset": 5435,
+      "Score": 0.8967202,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.73692274
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 311,
+      "BeginOffset": 5437,
+      "EndOffset": 5451,
+      "Score": 0.8896892,
+      "Text": "Pulmonic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 275,
+      "BeginOffset": 5437,
+      "EndOffset": 5468,
+      "Score": 0.76479304,
+      "Text": "Pulmonic valve: Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.94295436
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 312,
+      "BeginOffset": 5474,
+      "EndOffset": 5479,
+      "Score": 0.80482066,
+      "Text": "valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 276,
+      "BeginOffset": 5474,
+      "EndOffset": 5502,
+      "Score": 0.7050616,
+      "Text": "valve is structurally normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.923468
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 277,
+      "BeginOffset": 5504,
+      "EndOffset": 5529,
+      "Score": 0.84666747,
+      "Text": "Cusp separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.89812684
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 227,
+      "BeginOffset": 5531,
+      "EndOffset": 5538,
+      "Score": 0.7531367,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 228,
+      "BeginOffset": 5540,
+      "EndOffset": 5553,
+      "Score": 0.19796845,
+      "Text": "Transvalvular",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 229,
+      "BeginOffset": 5568,
+      "EndOffset": 5587,
+      "Score": 0.5824645,
+      "Text": "Choudhuri, Indrajit",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 230,
+      "BeginOffset": 5607,
+      "EndOffset": 5611,
+      "Score": 0.53077716,
+      "Text": "KMCC",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 231,
+      "BeginOffset": 5612,
+      "EndOffset": 5621,
+      "Score": 0.78095937,
+      "Text": "Radiology",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 232,
+      "BeginOffset": 5622,
+      "EndOffset": 5635,
+      "Score": 0.17516668,
+      "Text": "2 Mar-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 233,
+      "BeginOffset": 5655,
+      "EndOffset": 5677,
+      "Score": 0.9982634,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 234,
+      "BeginOffset": 5678,
+      "EndOffset": 5691,
+      "Score": 0.70223856,
+      "Text": "St. Catherine",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 357,
+      "BeginOffset": 5692,
+      "EndOffset": 5708,
+      "Score": 0.5882346,
+      "Text": "s Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 358,
+      "BeginOffset": 5709,
+      "EndOffset": 5745,
+      "Score": 0.99823713,
+      "Text": "6308 Eighth Avenue Kenosha, WI 53143",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 359,
+      "BeginOffset": 5746,
+      "EndOffset": 5789,
+      "Score": 0.99899846,
+      "Text": "9555 76th Street Pleasant Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 360,
+      "BeginOffset": 5790,
+      "EndOffset": 5804,
+      "Score": 0.99976283,
+      "Text": "(262) 656-2011",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 361,
+      "BeginOffset": 5815,
+      "EndOffset": 5820,
+      "Score": 0.18364142,
+      "Text": "South",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 362,
+      "BeginOffset": 5821,
+      "EndOffset": 5835,
+      "Score": 0.7990416,
+      "Text": "(262) 577-8000",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 363,
+      "BeginOffset": 5865,
+      "EndOffset": 5875,
+      "Score": 0.9871378,
+      "Text": "03-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 364,
+      "BeginOffset": 5899,
+      "EndOffset": 5908,
+      "Score": 0.5984573,
+      "Text": "calcified",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.5299447
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 365,
+      "BeginOffset": 5926,
+      "EndOffset": 5953,
+      "Score": 0.66778284,
+      "Text": "regurgitation Regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.7948847
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 404,
+      "BeginOffset": 5985,
+      "EndOffset": 5997,
+      "Score": 0.9111759,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 366,
+      "BeginOffset": 6017,
+      "EndOffset": 6030,
+      "Score": 0.8748705,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.73905575
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 405,
+      "BeginOffset": 6035,
+      "EndOffset": 6050,
+      "Score": 0.9505637,
+      "Text": "Tricuspid valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 367,
+      "BeginOffset": 6035,
+      "EndOffset": 6050,
+      "Score": 0.43599132,
+      "Text": "Tricuspid valve",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 368,
+      "BeginOffset": 6052,
+      "EndOffset": 6070,
+      "Score": 0.826198,
+      "Text": "Leaflet thickening",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.7192014
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 369,
+      "BeginOffset": 6081,
+      "EndOffset": 6110,
+      "Score": 0.37305942,
+      "Text": "moderate-severe regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.7956831
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 406,
+      "BeginOffset": 6115,
+      "EndOffset": 6129,
+      "Score": 0.87192327,
+      "Text": "Pulmonic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 370,
+      "BeginOffset": 6115,
+      "EndOffset": 6129,
+      "Score": 0.4118612,
+      "Text": "Pulmonic valve",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 371,
+      "BeginOffset": 6143,
+      "EndOffset": 6156,
+      "Score": 0.8357373,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "NEGATION",
+          "Score": 0.8314799
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 407,
+      "BeginOffset": 6161,
+      "EndOffset": 6172,
+      "Score": 0.9711411,
+      "Text": "Aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 408,
+      "BeginOffset": 6178,
+      "EndOffset": 6189,
+      "Score": 0.99487704,
+      "Text": "aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 372,
+      "BeginOffset": 6178,
+      "EndOffset": 6204,
+      "Score": 0.6297375,
+      "Text": "aortic root is not dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.75690424
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.7067063
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 410,
+      "BeginOffset": 6214,
+      "EndOffset": 6220,
+      "Score": 0.8957467,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 411,
+      "BeginOffset": 6226,
+      "EndOffset": 6232,
+      "Score": 0.8373999,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 373,
+      "BeginOffset": 6226,
+      "EndOffset": 6243,
+      "Score": 0.5749556,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8716213
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 413,
+      "BeginOffset": 6254,
+      "EndOffset": 6260,
+      "Score": 0.9128941,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 414,
+      "BeginOffset": 6266,
+      "EndOffset": 6272,
+      "Score": 0.85573024,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 374,
+      "BeginOffset": 6266,
+      "EndOffset": 6283,
+      "Score": 0.54562336,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8839893
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 415,
+      "BeginOffset": 6289,
+      "EndOffset": 6302,
+      "Score": 0.9748756,
+      "Text": "Atrial septum",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 375,
+      "BeginOffset": 6289,
+      "EndOffset": 6302,
+      "Score": 0.70303065,
+      "Text": "Atrial septum",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.54603475
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 313,
+      "BeginOffset": 6304,
+      "EndOffset": 6322,
+      "Score": 0.6968615,
+      "Text": "Color flow Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9866116,
+          "RelationshipScore": 1,
+          "Id": 314,
+          "BeginOffset": 6329,
+          "EndOffset": 6337,
+          "Text": "no shunt",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.4725536,
+          "RelationshipScore": 0.99999785,
+          "Id": 315,
+          "BeginOffset": 6343,
+          "EndOffset": 6384,
+          "Text": "Inferior vena cava: The vessel is dilated",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.38964567,
+          "RelationshipScore": 0.9999995,
+          "Id": 316,
+          "BeginOffset": 6390,
+          "EndOffset": 6449,
+          "Text": "Pericardium, extracardiac: There is no pericardial effusion",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 417,
+      "BeginOffset": 6352,
+      "EndOffset": 6361,
+      "Score": 0.99270964,
+      "Text": "vena cava",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 418,
+      "BeginOffset": 6367,
+      "EndOffset": 6373,
+      "Score": 0.96222186,
+      "Text": "vessel",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 376,
+      "BeginOffset": 6377,
+      "EndOffset": 6384,
+      "Score": 0.44538206,
+      "Text": "dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 419,
+      "BeginOffset": 6390,
+      "EndOffset": 6401,
+      "Score": 0.8940454,
+      "Text": "Pericardium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 420,
+      "BeginOffset": 6403,
+      "EndOffset": 6415,
+      "Score": 0.77813137,
+      "Text": "extracardiac",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 377,
+      "BeginOffset": 6429,
+      "EndOffset": 6449,
+      "Score": 0.9339006,
+      "Text": "pericardial effusion",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7605854
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9775612
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 318,
+      "BeginOffset": 6539,
+      "EndOffset": 6544,
+      "Score": 0.2807904,
+      "Text": "Study",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 319,
+      "BeginOffset": 6551,
+      "EndOffset": 6563,
+      "Score": 0.60972404,
+      "Text": "Study status",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 320,
+      "BeginOffset": 6574,
+      "EndOffset": 6584,
+      "Score": 0.5566503,
+      "Text": "ECG rhythm",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.8576262,
+          "RelationshipScore": 0.9960515,
+          "Id": 321,
+          "BeginOffset": 6586,
+          "EndOffset": 6606,
+          "Text": "Junctional Procedure",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 322,
+      "BeginOffset": 6608,
+      "EndOffset": 6638,
+      "Score": 0.98848534,
+      "Text": "Transthoracic echocardiography",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.8576262,
+          "RelationshipScore": 0.6372404,
+          "Id": 321,
+          "BeginOffset": 6586,
+          "EndOffset": 6606,
+          "Text": "Junctional Procedure",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 323,
+      "BeginOffset": 6640,
+      "EndOffset": 6646,
+      "Score": 0.9490111,
+      "Text": "Images",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 324,
+      "BeginOffset": 6682,
+      "EndOffset": 6700,
+      "Score": 0.7958947,
+      "Text": "cardiac ultrasound",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 325,
+      "BeginOffset": 6710,
+      "EndOffset": 6723,
+      "Score": 0.64699286,
+      "Text": "Image quality",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.7586732,
+          "RelationshipScore": 0.9985575,
+          "Id": 326,
+          "BeginOffset": 6728,
+          "EndOffset": 6732,
+          "Text": "good",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.4290419,
+          "RelationshipScore": 0.80151165,
+          "Id": 327,
+          "BeginOffset": 6734,
+          "EndOffset": 6786,
+          "Text": "Findings Left ventricle: Systolic function is normal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9709048,
+          "RelationshipScore": 0.99480104,
+          "Id": 329,
+          "BeginOffset": 6828,
+          "EndOffset": 6849,
+          "Text": "Wall motion is normal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9840119,
+          "RelationshipScore": 0.99757546,
+          "Id": 330,
+          "BeginOffset": 6861,
+          "EndOffset": 6898,
+          "Text": "no regional wall motion abnormalities",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 422,
+      "BeginOffset": 6748,
+      "EndOffset": 6757,
+      "Score": 0.9714974,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 378,
+      "BeginOffset": 6759,
+      "EndOffset": 6786,
+      "Score": 0.5917082,
+      "Text": "Systolic function is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.87633556
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 423,
+      "BeginOffset": 6864,
+      "EndOffset": 6877,
+      "Score": 0.6002161,
+      "Text": "regional wall",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 379,
+      "BeginOffset": 6873,
+      "EndOffset": 6898,
+      "Score": 0.4292433,
+      "Text": "wall motion abnormalities",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9420918
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.925442
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 424,
+      "BeginOffset": 6904,
+      "EndOffset": 6910,
+      "Score": 0.63113385,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 380,
+      "BeginOffset": 6904,
+      "EndOffset": 6925,
+      "Score": 0.37749296,
+      "Text": "cavity size is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8955818
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 381,
+      "BeginOffset": 6927,
+      "EndOffset": 6961,
+      "Score": 0.39359385,
+      "Text": "Wall thickness is mildly increased",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.91685396
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 426,
+      "BeginOffset": 6969,
+      "EndOffset": 6978,
+      "Score": 0.95990807,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 427,
+      "BeginOffset": 6984,
+      "EndOffset": 6990,
+      "Score": 0.56018275,
+      "Text": "cavity",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 382,
+      "BeginOffset": 7012,
+      "EndOffset": 7031,
+      "Score": 0.41891322,
+      "Text": "thickness is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.90271497
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 383,
+      "BeginOffset": 7033,
+      "EndOffset": 7060,
+      "Score": 0.88192946,
+      "Text": "Systolic function is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.91326207
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 384,
+      "BeginOffset": 7062,
+      "EndOffset": 7099,
+      "Score": 0.83211815,
+      "Text": "Systolic pressure is mildly increased",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9352555
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 429,
+      "BeginOffset": 7106,
+      "EndOffset": 7112,
+      "Score": 0.96857554,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 385,
+      "BeginOffset": 7114,
+      "EndOffset": 7129,
+      "Score": 0.805431,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9424806
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 430,
+      "BeginOffset": 7135,
+      "EndOffset": 7141,
+      "Score": 0.9029407,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 386,
+      "BeginOffset": 7135,
+      "EndOffset": 7152,
+      "Score": 0.8338335,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.92777216
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 432,
+      "BeginOffset": 7160,
+      "EndOffset": 7166,
+      "Score": 0.9637511,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 387,
+      "BeginOffset": 7168,
+      "EndOffset": 7183,
+      "Score": 0.75722784,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.93593544
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 433,
+      "BeginOffset": 7189,
+      "EndOffset": 7195,
+      "Score": 0.9148755,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 388,
+      "BeginOffset": 7189,
+      "EndOffset": 7206,
+      "Score": 0.82460016,
+      "Text": "atrium is dilated",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9204638
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 434,
+      "BeginOffset": 7208,
+      "EndOffset": 7221,
+      "Score": 0.98462486,
+      "Text": "Atrial septum",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 389,
+      "BeginOffset": 7208,
+      "EndOffset": 7221,
+      "Score": 0.86724955,
+      "Text": "Atrial septum",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.67030114
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 390,
+      "BeginOffset": 7223,
+      "EndOffset": 7256,
+      "Score": 0.4703489,
+      "Text": "Color flow Doppler shows no shunt",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9133466
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.8570829
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 435,
+      "BeginOffset": 7258,
+      "EndOffset": 7270,
+      "Score": 0.9899743,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 391,
+      "BeginOffset": 7258,
+      "EndOffset": 7287,
+      "Score": 0.83765525,
+      "Text": "Mitral valve: Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9429777
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 436,
+      "BeginOffset": 7293,
+      "EndOffset": 7301,
+      "Score": 0.3087117,
+      "Text": "leaflets",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 392,
+      "BeginOffset": 7293,
+      "EndOffset": 7326,
+      "Score": 0.56456643,
+      "Text": "leaflets are moderately thickened",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.9320273
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 393,
+      "BeginOffset": 7328,
+      "EndOffset": 7356,
+      "Score": 0.8360912,
+      "Text": "Leaflet separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.90506905
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 345,
+      "BeginOffset": 7358,
+      "EndOffset": 7365,
+      "Score": 0.75701845,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9777239,
+          "RelationshipScore": 0.99757475,
+          "Id": 346,
+          "BeginOffset": 7367,
+          "EndOffset": 7416,
+          "Text": "Transvalvular velocity is within the normal range",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9792865,
+          "RelationshipScore": 0.9198517,
+          "Id": 347,
+          "BeginOffset": 7427,
+          "EndOffset": 7451,
+          "Text": "no evidence for stenosis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9782859,
+          "RelationshipScore": 0.9784773,
+          "Id": 348,
+          "BeginOffset": 7462,
+          "EndOffset": 7484,
+          "Text": "moderate regurgitation",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.98866385,
+          "RelationshipScore": 0.66829675,
+          "Id": 350,
+          "BeginOffset": 7520,
+          "EndOffset": 7538,
+          "Text": "Leaflet thickening",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 394,
+      "BeginOffset": 7367,
+      "EndOffset": 7416,
+      "Score": 0.7669967,
+      "Text": "Transvalvular velocity is within the normal range",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.70089895
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 395,
+      "BeginOffset": 7443,
+      "EndOffset": 7451,
+      "Score": 0.980412,
+      "Text": "stenosis",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7643664
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.96905947
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 396,
+      "BeginOffset": 7471,
+      "EndOffset": 7484,
+      "Score": 0.9023944,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.6760694
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 437,
+      "BeginOffset": 7486,
+      "EndOffset": 7501,
+      "Score": 0.96564597,
+      "Text": "Tricuspid valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 397,
+      "BeginOffset": 7486,
+      "EndOffset": 7501,
+      "Score": 0.59553766,
+      "Text": "Tricuspid valve",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 398,
+      "BeginOffset": 7503,
+      "EndOffset": 7518,
+      "Score": 0.67246747,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.899845
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 399,
+      "BeginOffset": 7520,
+      "EndOffset": 7538,
+      "Score": 0.86690116,
+      "Text": "Leaflet thickening",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.86824006
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 400,
+      "BeginOffset": 7540,
+      "EndOffset": 7568,
+      "Score": 0.79579324,
+      "Text": "Leaflet separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.885952
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 352,
+      "BeginOffset": 7570,
+      "EndOffset": 7577,
+      "Score": 0.7781553,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.974627,
+          "RelationshipScore": 0.9779783,
+          "Id": 353,
+          "BeginOffset": 7579,
+          "EndOffset": 7628,
+          "Text": "Transvalvular velocity is within the normal range",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9741925,
+          "RelationshipScore": 0.86444724,
+          "Id": 354,
+          "BeginOffset": 7639,
+          "EndOffset": 7663,
+          "Text": "no evidence for stenosis",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 401,
+      "BeginOffset": 7579,
+      "EndOffset": 7628,
+      "Score": 0.7073971,
+      "Text": "Transvalvular velocity is within the normal range",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.66158956
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 402,
+      "BeginOffset": 7655,
+      "EndOffset": 7663,
+      "Score": 0.97534275,
+      "Text": "stenosis",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.69727236
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.42168435
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9695226
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 403,
+      "BeginOffset": 7674,
+      "EndOffset": 7703,
+      "Score": 0.47746548,
+      "Text": "moderate-severe regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.5997326
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.45057368
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 438,
+      "BeginOffset": 7705,
+      "EndOffset": 7717,
+      "Score": 0.9835368,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 460,
+      "BeginOffset": 7719,
+      "EndOffset": 7734,
+      "Score": 0.38691553,
+      "Text": "Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.8838365
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 474,
+      "BeginOffset": 7740,
+      "EndOffset": 7745,
+      "Score": 0.6725841,
+      "Text": "valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 461,
+      "BeginOffset": 7762,
+      "EndOffset": 7770,
+      "Score": 0.19699803,
+      "Text": "leaflets",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 462,
+      "BeginOffset": 7786,
+      "EndOffset": 7795,
+      "Score": 0.75512296,
+      "Text": "calcified",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.63611394
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 463,
+      "BeginOffset": 7797,
+      "EndOffset": 7822,
+      "Score": 0.8066952,
+      "Text": "Cusp separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.89303774
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 439,
+      "BeginOffset": 7824,
+      "EndOffset": 7831,
+      "Score": 0.4702269,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.97545856,
+          "RelationshipScore": 0.99962986,
+          "Id": 440,
+          "BeginOffset": 7833,
+          "EndOffset": 7882,
+          "Text": "Transvalvular velocity is within the normal range",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.92357755,
+          "RelationshipScore": 0.9968363,
+          "Id": 441,
+          "BeginOffset": 7893,
+          "EndOffset": 7904,
+          "Text": "no stenosis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9345291,
+          "RelationshipScore": 0.9677724,
+          "Id": 442,
+          "BeginOffset": 7915,
+          "EndOffset": 7935,
+          "Text": "severe regurgitation",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9604308,
+          "RelationshipScore": 0.99927217,
+          "Id": 443,
+          "BeginOffset": 7937,
+          "EndOffset": 7968,
+          "Text": "Pulmonic valve: Well visualized",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.87162626,
+          "RelationshipScore": 0.9987412,
+          "Id": 444,
+          "BeginOffset": 7974,
+          "EndOffset": 8002,
+          "Text": "valve is structurally normal",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 464,
+      "BeginOffset": 7833,
+      "EndOffset": 7882,
+      "Score": 0.61559933,
+      "Text": "Transvalvular velocity is within the normal range",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7763479
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 465,
+      "BeginOffset": 7896,
+      "EndOffset": 7904,
+      "Score": 0.9594087,
+      "Text": "stenosis",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7830712
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9645117
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 466,
+      "BeginOffset": 7922,
+      "EndOffset": 7935,
+      "Score": 0.8550043,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.61555415
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 475,
+      "BeginOffset": 7937,
+      "EndOffset": 7951,
+      "Score": 0.861804,
+      "Text": "Pulmonic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 467,
+      "BeginOffset": 7937,
+      "EndOffset": 7968,
+      "Score": 0.65342164,
+      "Text": "Pulmonic valve: Well visualized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.92234826
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 476,
+      "BeginOffset": 7974,
+      "EndOffset": 7979,
+      "Score": 0.7667057,
+      "Text": "valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 468,
+      "BeginOffset": 7974,
+      "EndOffset": 8002,
+      "Score": 0.5994132,
+      "Text": "valve is structurally normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.90538174
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 469,
+      "BeginOffset": 8004,
+      "EndOffset": 8029,
+      "Score": 0.7572335,
+      "Text": "Cusp separation is normal",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.87756747
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 446,
+      "BeginOffset": 8031,
+      "EndOffset": 8038,
+      "Score": 0.7452812,
+      "Text": "Doppler",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 447,
+      "BeginOffset": 8068,
+      "EndOffset": 8087,
+      "Score": 0.580563,
+      "Text": "Choudhuri, Indrajit",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 448,
+      "BeginOffset": 8107,
+      "EndOffset": 8111,
+      "Score": 0.48130468,
+      "Text": "KMCC",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 449,
+      "BeginOffset": 8112,
+      "EndOffset": 8121,
+      "Score": 0.79089355,
+      "Text": "Radiology",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 450,
+      "BeginOffset": 8122,
+      "EndOffset": 8135,
+      "Score": 0.16271204,
+      "Text": "2 Mar-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 451,
+      "BeginOffset": 8155,
+      "EndOffset": 8177,
+      "Score": 0.99833655,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 452,
+      "BeginOffset": 8178,
+      "EndOffset": 8208,
+      "Score": 0.9830428,
+      "Text": "St. Catherine's Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 453,
+      "BeginOffset": 8209,
+      "EndOffset": 8245,
+      "Score": 0.9987404,
+      "Text": "6308 Eighth Avenue Kenosha, WI 53143",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 454,
+      "BeginOffset": 8246,
+      "EndOffset": 8289,
+      "Score": 0.9979342,
+      "Text": "9555 76th Street Pleasant Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 455,
+      "BeginOffset": 8290,
+      "EndOffset": 8304,
+      "Score": 0.9995852,
+      "Text": "(262) 656-2011",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 456,
+      "BeginOffset": 8321,
+      "EndOffset": 8335,
+      "Score": 0.69893044,
+      "Text": "(262) 577-8000",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 457,
+      "BeginOffset": 8365,
+      "EndOffset": 8375,
+      "Score": 0.978226,
+      "Text": "03-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 470,
+      "BeginOffset": 8437,
+      "EndOffset": 8450,
+      "Score": 0.5946234,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "NEGATION",
+          "Score": 0.5806421
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 477,
+      "BeginOffset": 8452,
+      "EndOffset": 8457,
+      "Score": 0.86105317,
+      "Text": "Aorta",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 478,
+      "BeginOffset": 8459,
+      "EndOffset": 8470,
+      "Score": 0.8974802,
+      "Text": "Aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 479,
+      "BeginOffset": 8475,
+      "EndOffset": 8486,
+      "Score": 0.995216,
+      "Text": "aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 480,
+      "BeginOffset": 8503,
+      "EndOffset": 8519,
+      "Score": 0.98204374,
+      "Text": "Pulmonary artery",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 481,
+      "BeginOffset": 8530,
+      "EndOffset": 8546,
+      "Score": 0.97428834,
+      "Text": "pulmonary artery",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 471,
+      "BeginOffset": 8530,
+      "EndOffset": 8562,
+      "Score": 0.48251775,
+      "Text": "pulmonary artery is normal-sized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.66549927
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.5688748
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 472,
+      "BeginOffset": 8564,
+      "EndOffset": 8578,
+      "Score": 0.5446146,
+      "Text": "Systemic veins",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.52905947
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 482,
+      "BeginOffset": 8573,
+      "EndOffset": 8578,
+      "Score": 0.6100655,
+      "Text": "veins",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 484,
+      "BeginOffset": 8589,
+      "EndOffset": 8598,
+      "Score": 0.96507186,
+      "Text": "vena cava",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 485,
+      "BeginOffset": 8604,
+      "EndOffset": 8610,
+      "Score": 0.9028055,
+      "Text": "vessel",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 486,
+      "BeginOffset": 8623,
+      "EndOffset": 8634,
+      "Score": 0.9078207,
+      "Text": "Pericardium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 473,
+      "BeginOffset": 8648,
+      "EndOffset": 8668,
+      "Score": 0.920842,
+      "Text": "pericardial effusion",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.5208171
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.7246435
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.9557038
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 488,
+      "BeginOffset": 8726,
+      "EndOffset": 8735,
+      "Score": 0.4113956,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 489,
+      "BeginOffset": 8736,
+      "EndOffset": 8748,
+      "Score": 0.8799677,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 490,
+      "BeginOffset": 8909,
+      "EndOffset": 8921,
+      "Score": 0.67159563,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 491,
+      "BeginOffset": 9057,
+      "EndOffset": 9072,
+      "Score": 0.6724946,
+      "Text": "Tricuspid valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 493,
+      "BeginOffset": 9228,
+      "EndOffset": 9234,
+      "Score": 0.32171938,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 495,
+      "BeginOffset": 9241,
+      "EndOffset": 9250,
+      "Score": 0.5576186,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 497,
+      "BeginOffset": 9309,
+      "EndOffset": 9318,
+      "Score": 0.5028772,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 498,
+      "BeginOffset": 9361,
+      "EndOffset": 9373,
+      "Score": 0.9358158,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 499,
+      "BeginOffset": 9401,
+      "EndOffset": 9406,
+      "Score": 0.4854536,
+      "Text": "Aorta",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 500,
+      "BeginOffset": 9428,
+      "EndOffset": 9440,
+      "Score": 0.7153985,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 458,
+      "BeginOffset": 9509,
+      "EndOffset": 9523,
+      "Score": 0.99981886,
+      "Text": "Silenzi, Anna,",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 459,
+      "BeginOffset": 9527,
+      "EndOffset": 9537,
+      "Score": 0.9998202,
+      "Text": "02/23/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 501,
+      "BeginOffset": 9558,
+      "EndOffset": 9577,
+      "Score": 0.8298411,
+      "Text": "Choudhuri, Indrajit",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 502,
+      "BeginOffset": 9598,
+      "EndOffset": 9611,
+      "Score": 0.39975104,
+      "Text": "MCC-Radiology",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 503,
+      "BeginOffset": 9614,
+      "EndOffset": 9625,
+      "Score": 0.8729703,
+      "Text": "Mar-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 504,
+      "BeginOffset": 9659,
+      "EndOffset": 9681,
+      "Score": 0.9986291,
+      "Text": "Kenosha Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 505,
+      "BeginOffset": 9682,
+      "EndOffset": 9712,
+      "Score": 0.980489,
+      "Text": "St. Catherine's Medical Center",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 506,
+      "BeginOffset": 9713,
+      "EndOffset": 9749,
+      "Score": 0.99852055,
+      "Text": "6308 Eighth Avenue Kenosha, WI 53143",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 507,
+      "BeginOffset": 9750,
+      "EndOffset": 9793,
+      "Score": 0.9971425,
+      "Text": "9555 76th Street Pleasant Prairie, WI 53158",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 508,
+      "BeginOffset": 9794,
+      "EndOffset": 9808,
+      "Score": 0.99960047,
+      "Text": "(262) 656-2011",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 509,
+      "BeginOffset": 9819,
+      "EndOffset": 9824,
+      "Score": 0.20369771,
+      "Text": "South",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 510,
+      "BeginOffset": 9825,
+      "EndOffset": 9839,
+      "Score": 0.7820786,
+      "Text": "(262) 577-8000",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 511,
+      "BeginOffset": 9869,
+      "EndOffset": 9879,
+      "Score": 0.98037887,
+      "Text": "03-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 517,
+      "BeginOffset": 9941,
+      "EndOffset": 9954,
+      "Score": 0.7031744,
+      "Text": "regurgitation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "NEGATION",
+          "Score": 0.5699417
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 521,
+      "BeginOffset": 9956,
+      "EndOffset": 9961,
+      "Score": 0.83835,
+      "Text": "Aorta",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 522,
+      "BeginOffset": 9963,
+      "EndOffset": 9974,
+      "Score": 0.8825744,
+      "Text": "Aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 523,
+      "BeginOffset": 9979,
+      "EndOffset": 9990,
+      "Score": 0.9951089,
+      "Text": "aortic root",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 524,
+      "BeginOffset": 10007,
+      "EndOffset": 10023,
+      "Score": 0.9808553,
+      "Text": "Pulmonary artery",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 525,
+      "BeginOffset": 10034,
+      "EndOffset": 10050,
+      "Score": 0.9733709,
+      "Text": "pulmonary artery",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 518,
+      "BeginOffset": 10034,
+      "EndOffset": 10066,
+      "Score": 0.4757176,
+      "Text": "pulmonary artery is normal-sized",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.5683359
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.67271346
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 519,
+      "BeginOffset": 10068,
+      "EndOffset": 10082,
+      "Score": 0.53319937,
+      "Text": "Systemic veins",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.6278208
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 526,
+      "BeginOffset": 10077,
+      "EndOffset": 10082,
+      "Score": 0.60912925,
+      "Text": "veins",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 528,
+      "BeginOffset": 10093,
+      "EndOffset": 10102,
+      "Score": 0.9644131,
+      "Text": "vena cava",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 529,
+      "BeginOffset": 10108,
+      "EndOffset": 10114,
+      "Score": 0.90190786,
+      "Text": "vessel",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 530,
+      "BeginOffset": 10127,
+      "EndOffset": 10138,
+      "Score": 0.9062514,
+      "Text": "Pericardium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 520,
+      "BeginOffset": 10152,
+      "EndOffset": 10172,
+      "Score": 0.9152817,
+      "Text": "pericardial effusion",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.44558036
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.7748159
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.95084935
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 532,
+      "BeginOffset": 10230,
+      "EndOffset": 10239,
+      "Score": 0.41185248,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 533,
+      "BeginOffset": 10240,
+      "EndOffset": 10252,
+      "Score": 0.871301,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 534,
+      "BeginOffset": 10413,
+      "EndOffset": 10425,
+      "Score": 0.66475767,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 535,
+      "BeginOffset": 10561,
+      "EndOffset": 10576,
+      "Score": 0.67005277,
+      "Text": "Tricuspid valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 537,
+      "BeginOffset": 10732,
+      "EndOffset": 10738,
+      "Score": 0.32095748,
+      "Text": "atrium",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 539,
+      "BeginOffset": 10745,
+      "EndOffset": 10754,
+      "Score": 0.555802,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 541,
+      "BeginOffset": 10813,
+      "EndOffset": 10822,
+      "Score": 0.5001774,
+      "Text": "ventricle",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 542,
+      "BeginOffset": 10865,
+      "EndOffset": 10877,
+      "Score": 0.9345896,
+      "Text": "Aortic valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 543,
+      "BeginOffset": 10905,
+      "EndOffset": 10910,
+      "Score": 0.46680036,
+      "Text": "Aorta",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 544,
+      "BeginOffset": 10932,
+      "EndOffset": 10944,
+      "Score": 0.6235439,
+      "Text": "Mitral valve",
+      "Category": "ANATOMY",
+      "Type": "SYSTEM_ORGAN_SITE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 512,
+      "BeginOffset": 11013,
+      "EndOffset": 11026,
+      "Score": 0.999759,
+      "Text": "Silenzi, Anna",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 513,
+      "BeginOffset": 11031,
+      "EndOffset": 11041,
+      "Score": 0.9999547,
+      "Text": "02/23/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 514,
+      "BeginOffset": 11062,
+      "EndOffset": 11081,
+      "Score": 0.9713983,
+      "Text": "Choudhuri, Indrajit",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 515,
+      "BeginOffset": 11102,
+      "EndOffset": 11115,
+      "Score": 0.16891219,
+      "Text": "MCC-Radiology",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 516,
+      "BeginOffset": 11116,
+      "EndOffset": 11129,
+      "Score": 0.5928873,
+      "Text": "2 Mar-16-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    }
+  ],
+  "UnmappedAttributes": [
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9452106,
+        "Id": 73,
+        "BeginOffset": 1048,
+        "EndOffset": 1052,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.97932416,
+        "Id": 17,
+        "BeginOffset": 1166,
+        "EndOffset": 1203,
+        "Text": "no regional wall motion abnormalities",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.89404064,
+        "Id": 18,
+        "BeginOffset": 1209,
+        "EndOffset": 1230,
+        "Text": "cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.97160465,
+        "Id": 19,
+        "BeginOffset": 1232,
+        "EndOffset": 1266,
+        "Text": "Wall thickness is mildly increased",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.96580106,
+        "Id": 77,
+        "BeginOffset": 1271,
+        "EndOffset": 1276,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8066662,
+        "Id": 20,
+        "BeginOffset": 1271,
+        "EndOffset": 1313,
+        "Text": "Right ventricle: The cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.96680987,
+        "Id": 21,
+        "BeginOffset": 1315,
+        "EndOffset": 1339,
+        "Text": "Wall thickness is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.94734496,
+        "Id": 161,
+        "BeginOffset": 2625,
+        "EndOffset": 2629,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9802274,
+        "Id": 100,
+        "BeginOffset": 2743,
+        "EndOffset": 2780,
+        "Text": "no regional wall motion abnormalities",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8968781,
+        "Id": 101,
+        "BeginOffset": 2786,
+        "EndOffset": 2807,
+        "Text": "cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9724753,
+        "Id": 102,
+        "BeginOffset": 2809,
+        "EndOffset": 2843,
+        "Text": "Wall thickness is mildly increased",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9673697,
+        "Id": 165,
+        "BeginOffset": 2848,
+        "EndOffset": 2853,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.811297,
+        "Id": 103,
+        "BeginOffset": 2848,
+        "EndOffset": 2890,
+        "Text": "Right ventricle: The cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9689584,
+        "Id": 104,
+        "BeginOffset": 2892,
+        "EndOffset": 2916,
+        "Text": "Wall thickness is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.29795873,
+        "Id": 109,
+        "BeginOffset": 3508,
+        "EndOffset": 3530,
+        "Text": "moderate regurgitation",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.28741834,
+        "Id": 110,
+        "BeginOffset": 3532,
+        "EndOffset": 3533,
+        "Text": "5",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9447075,
+        "Id": 111,
+        "BeginOffset": 3535,
+        "EndOffset": 3570,
+        "Text": "Tricuspid valve: Leaflet thickening",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9428413,
+        "Id": 112,
+        "BeginOffset": 3581,
+        "EndOffset": 3610,
+        "Text": "moderate-severe regurgitation",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.30179316,
+        "Id": 113,
+        "BeginOffset": 3612,
+        "EndOffset": 3613,
+        "Text": "6",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.90702087,
+        "Id": 114,
+        "BeginOffset": 3615,
+        "EndOffset": 3656,
+        "Text": "Pulmonic valve: There is no regurgitation",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.41682976,
+        "Id": 115,
+        "BeginOffset": 3658,
+        "EndOffset": 3667,
+        "Text": "7. Aortic",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9882968,
+        "Id": 280,
+        "BeginOffset": 3709,
+        "EndOffset": 3713,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9803631,
+        "Id": 283,
+        "BeginOffset": 3748,
+        "EndOffset": 3753,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.6999921,
+        "Id": 287,
+        "BeginOffset": 3843,
+        "EndOffset": 3851,
+        "Text": "Inferior",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.7977593,
+        "Id": 178,
+        "BeginOffset": 4010,
+        "EndOffset": 4032,
+        "Text": "no significant changes",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9759443,
+        "Id": 292,
+        "BeginOffset": 4243,
+        "EndOffset": 4247,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.6156549,
+        "Id": 189,
+        "BeginOffset": 4292,
+        "EndOffset": 4326,
+        "Text": "estimated ejection fraction is 60%",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9090703,
+        "Id": 192,
+        "BeginOffset": 4404,
+        "EndOffset": 4425,
+        "Text": "cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.97753066,
+        "Id": 193,
+        "BeginOffset": 4427,
+        "EndOffset": 4461,
+        "Text": "Wall thickness is mildly increased",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9722312,
+        "Id": 296,
+        "BeginOffset": 4463,
+        "EndOffset": 4468,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.90005094,
+        "Id": 194,
+        "BeginOffset": 4463,
+        "EndOffset": 4505,
+        "Text": "Right ventricle: The cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9785257,
+        "Id": 195,
+        "BeginOffset": 4507,
+        "EndOffset": 4531,
+        "Text": "Wall thickness is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.90706944,
+        "Id": 196,
+        "BeginOffset": 4533,
+        "EndOffset": 4560,
+        "Text": "Systolic function is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.75037485,
+        "Id": 197,
+        "BeginOffset": 4562,
+        "EndOffset": 4599,
+        "Text": "Systolic pressure is mildly increased",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9837728,
+        "Id": 299,
+        "BeginOffset": 4601,
+        "EndOffset": 4605,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8528582,
+        "Id": 198,
+        "BeginOffset": 4601,
+        "EndOffset": 4629,
+        "Text": "Left atrium: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9334205,
+        "Id": 199,
+        "BeginOffset": 4635,
+        "EndOffset": 4652,
+        "Text": "atrium is dilated",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9780839,
+        "Id": 302,
+        "BeginOffset": 4654,
+        "EndOffset": 4659,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.90274346,
+        "Id": 200,
+        "BeginOffset": 4654,
+        "EndOffset": 4683,
+        "Text": "Right atrium: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9329243,
+        "Id": 201,
+        "BeginOffset": 4689,
+        "EndOffset": 4706,
+        "Text": "atrium is dilated",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8055875,
+        "Id": 202,
+        "BeginOffset": 4708,
+        "EndOffset": 4756,
+        "Text": "Atrial septum: Color flow Doppler shows no shunt",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9443112,
+        "Id": 203,
+        "BeginOffset": 4758,
+        "EndOffset": 4787,
+        "Text": "Mitral valve: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9730959,
+        "Id": 204,
+        "BeginOffset": 4793,
+        "EndOffset": 4826,
+        "Text": "leaflets are moderately thickened",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.99068075,
+        "Id": 205,
+        "BeginOffset": 4828,
+        "EndOffset": 4856,
+        "Text": "Leaflet separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.993806,
+        "Id": 212,
+        "BeginOffset": 5040,
+        "EndOffset": 5068,
+        "Text": "Leaflet separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.95151645,
+        "Id": 216,
+        "BeginOffset": 5174,
+        "EndOffset": 5203,
+        "Text": "moderate-severe regurgitation",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8982159,
+        "Id": 217,
+        "BeginOffset": 5205,
+        "EndOffset": 5234,
+        "Text": "Aortic valve: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.91124994,
+        "Id": 219,
+        "BeginOffset": 5297,
+        "EndOffset": 5322,
+        "Text": "Cusp separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.7483834,
+        "Id": 226,
+        "BeginOffset": 5504,
+        "EndOffset": 5529,
+        "Text": "Cusp separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.986089,
+        "Id": 409,
+        "BeginOffset": 6209,
+        "EndOffset": 6213,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9784653,
+        "Id": 412,
+        "BeginOffset": 6248,
+        "EndOffset": 6253,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.6948227,
+        "Id": 416,
+        "BeginOffset": 6343,
+        "EndOffset": 6351,
+        "Text": "Inferior",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.7405291,
+        "Id": 317,
+        "BeginOffset": 6510,
+        "EndOffset": 6532,
+        "Text": "no significant changes",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.97552603,
+        "Id": 421,
+        "BeginOffset": 6743,
+        "EndOffset": 6747,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.61386234,
+        "Id": 328,
+        "BeginOffset": 6792,
+        "EndOffset": 6826,
+        "Text": "estimated ejection fraction is 60%",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9086741,
+        "Id": 331,
+        "BeginOffset": 6904,
+        "EndOffset": 6925,
+        "Text": "cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9773548,
+        "Id": 332,
+        "BeginOffset": 6927,
+        "EndOffset": 6961,
+        "Text": "Wall thickness is mildly increased",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9721052,
+        "Id": 425,
+        "BeginOffset": 6963,
+        "EndOffset": 6968,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8993445,
+        "Id": 333,
+        "BeginOffset": 6963,
+        "EndOffset": 7005,
+        "Text": "Right ventricle: The cavity size is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.978315,
+        "Id": 334,
+        "BeginOffset": 7007,
+        "EndOffset": 7031,
+        "Text": "Wall thickness is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.906118,
+        "Id": 335,
+        "BeginOffset": 7033,
+        "EndOffset": 7060,
+        "Text": "Systolic function is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.7475925,
+        "Id": 336,
+        "BeginOffset": 7062,
+        "EndOffset": 7099,
+        "Text": "Systolic pressure is mildly increased",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9836977,
+        "Id": 428,
+        "BeginOffset": 7101,
+        "EndOffset": 7105,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.8520752,
+        "Id": 337,
+        "BeginOffset": 7101,
+        "EndOffset": 7129,
+        "Text": "Left atrium: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9326067,
+        "Id": 338,
+        "BeginOffset": 7135,
+        "EndOffset": 7152,
+        "Text": "atrium is dilated",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.97799474,
+        "Id": 431,
+        "BeginOffset": 7154,
+        "EndOffset": 7159,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9021028,
+        "Id": 339,
+        "BeginOffset": 7154,
+        "EndOffset": 7183,
+        "Text": "Right atrium: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.93217164,
+        "Id": 340,
+        "BeginOffset": 7189,
+        "EndOffset": 7206,
+        "Text": "atrium is dilated",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.80487865,
+        "Id": 341,
+        "BeginOffset": 7208,
+        "EndOffset": 7256,
+        "Text": "Atrial septum: Color flow Doppler shows no shunt",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.94370896,
+        "Id": 342,
+        "BeginOffset": 7258,
+        "EndOffset": 7287,
+        "Text": "Mitral valve: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9722164,
+        "Id": 343,
+        "BeginOffset": 7293,
+        "EndOffset": 7326,
+        "Text": "leaflets are moderately thickened",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9904281,
+        "Id": 344,
+        "BeginOffset": 7328,
+        "EndOffset": 7356,
+        "Text": "Leaflet separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9626588,
+        "Id": 349,
+        "BeginOffset": 7486,
+        "EndOffset": 7518,
+        "Text": "Tricuspid valve: Well visualized",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.9929092,
+        "Id": 351,
+        "BeginOffset": 7540,
+        "EndOffset": 7568,
+        "Text": "Leaflet separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.93520266,
+        "Id": 355,
+        "BeginOffset": 7674,
+        "EndOffset": 7703,
+        "Text": "moderate-severe regurgitation",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.5222735,
+        "Id": 356,
+        "BeginOffset": 7705,
+        "EndOffset": 7717,
+        "Text": "Aortic valve",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.7643081,
+        "Id": 445,
+        "BeginOffset": 8004,
+        "EndOffset": 8029,
+        "Text": "Cusp separation is normal",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.6055253,
+        "Id": 483,
+        "BeginOffset": 8580,
+        "EndOffset": 8588,
+        "Text": "Inferior",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.9620952,
+        "Id": 487,
+        "BeginOffset": 8721,
+        "EndOffset": 8725,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.78447884,
+        "Id": 492,
+        "BeginOffset": 9223,
+        "EndOffset": 9227,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.78335303,
+        "Id": 494,
+        "BeginOffset": 9235,
+        "EndOffset": 9240,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.7481376,
+        "Id": 496,
+        "BeginOffset": 9303,
+        "EndOffset": 9308,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.60305846,
+        "Id": 527,
+        "BeginOffset": 10084,
+        "EndOffset": 10092,
+        "Text": "Inferior",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.95943093,
+        "Id": 531,
+        "BeginOffset": 10225,
+        "EndOffset": 10229,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.78367084,
+        "Id": 536,
+        "BeginOffset": 10727,
+        "EndOffset": 10731,
+        "Text": "Left",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.781893,
+        "Id": 538,
+        "BeginOffset": 10739,
+        "EndOffset": 10744,
+        "Text": "Right",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "ANATOMY",
+      "Attribute": {
+        "Type": "DIRECTION",
+        "Score": 0.74590343,
+        "Id": 540,
+        "BeginOffset": 10807,
+        "EndOffset": 10812,
+        "Text": "Right",
+        "Traits": []
+      }
+    }
+  ],
+  "ModelVersion": "0.0.0"
+}

@@ -1,0 +1,793 @@
+﻿{
+  "Entities": [
+    {
+      "Id": 30,
+      "BeginOffset": 1,
+      "EndOffset": 23,
+      "Score": 0.9949734,
+      "Text": "KENOSHA MEDICAL CENTER",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 31,
+      "BeginOffset": 24,
+      "EndOffset": 35,
+      "Score": 0.37071854,
+      "Text": "CAMPUS Room",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 32,
+      "BeginOffset": 36,
+      "EndOffset": 38,
+      "Score": 0.9896917,
+      "Text": "ED",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 33,
+      "BeginOffset": 39,
+      "EndOffset": 63,
+      "Score": 0.14629538,
+      "Text": "01 DX Stroke Tech e06918",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 50,
+      "BeginOffset": 45,
+      "EndOffset": 51,
+      "Score": 0.9708057,
+      "Text": "Stroke",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.9644068
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 51,
+      "BeginOffset": 72,
+      "EndOffset": 91,
+      "Score": 0.9119716,
+      "Text": "Atrial fibrillation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.9513766
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 34,
+      "BeginOffset": 137,
+      "EndOffset": 153,
+      "Score": 0.9786703,
+      "Text": "Matthew Stauffer",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 52,
+      "BeginOffset": 186,
+      "EndOffset": 189,
+      "Score": 0.87846315,
+      "Text": "LVH",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.81452215
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 35,
+      "BeginOffset": 230,
+      "EndOffset": 243,
+      "Score": 0.9616462,
+      "Text": "0023834600068",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 0,
+      "BeginOffset": 262,
+      "EndOffset": 265,
+      "Score": 0.8646763,
+      "Text": "ECG",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.22295228,
+          "RelationshipScore": 0.99993956,
+          "Id": 1,
+          "BeginOffset": 283,
+          "EndOffset": 289,
+          "Text": "QT 434",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "BeginOffset": 302,
+      "EndOffset": 305,
+      "Score": 0.995316,
+      "Text": "ECG",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.22295228,
+          "RelationshipScore": 0.99993336,
+          "Id": 1,
+          "BeginOffset": 283,
+          "EndOffset": 289,
+          "Text": "QT 434",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9905133,
+          "RelationshipScore": 0.99999774,
+          "Id": 3,
+          "BeginOffset": 326,
+          "EndOffset": 362,
+          "Text": "QTc 422 Left ventricular hypertrophy",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.35163426,
+          "RelationshipScore": 0.9931919,
+          "Id": 4,
+          "BeginOffset": 367,
+          "EndOffset": 381,
+          "Text": "present --Axis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.91796756,
+          "RelationshipScore": 0.990851,
+          "Id": 5,
+          "BeginOffset": 384,
+          "EndOffset": 396,
+          "Text": "Sinus rhythm",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.57614654,
+          "RelationshipScore": 0.99358445,
+          "Id": 6,
+          "BeginOffset": 397,
+          "EndOffset": 438,
+          "Text": "no longer present P First degree AV block",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5017044,
+          "RelationshipScore": 0.9986701,
+          "Id": 7,
+          "BeginOffset": 439,
+          "EndOffset": 483,
+          "Text": "no longer present QRS 21 Left-axis deviation",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 36,
+      "BeginOffset": 306,
+      "EndOffset": 316,
+      "Score": 0.99993145,
+      "Text": "03/09/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 53,
+      "BeginOffset": 351,
+      "EndOffset": 362,
+      "Score": 0.5105883,
+      "Text": "hypertrophy",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 54,
+      "BeginOffset": 384,
+      "EndOffset": 396,
+      "Score": 0.6326213,
+      "Text": "Sinus rhythm",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7732369
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 55,
+      "BeginOffset": 430,
+      "EndOffset": 438,
+      "Score": 0.727528,
+      "Text": "AV block",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.45709065
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 56,
+      "BeginOffset": 553,
+      "EndOffset": 561,
+      "Score": 0.96345687,
+      "Text": "ischemia",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.72306436
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.57915634
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 37,
+      "BeginOffset": 645,
+      "EndOffset": 654,
+      "Score": 0.99983335,
+      "Text": "3-13-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 38,
+      "BeginOffset": 671,
+      "EndOffset": 686,
+      "Score": 0.99998045,
+      "Text": "Timothy Sanborn",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 11,
+      "BeginOffset": 700,
+      "EndOffset": 703,
+      "Score": 0.9972351,
+      "Text": "ECG",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.41954893,
+          "RelationshipScore": 0.9998447,
+          "Id": 10,
+          "BeginOffset": 691,
+          "EndOffset": 699,
+          "Text": "Abnormal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5318475,
+          "RelationshipScore": 0.97728604,
+          "Id": 12,
+          "BeginOffset": 760,
+          "EndOffset": 858,
+          "Text": "T aVR Vl N4 II aVL V2 I V5 I III aVF V3 I V6 I LI MAC V-0 25 mm/sec 10.0 mm/mV F 60 - 0.50 - 40 Hz",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 39,
+      "BeginOffset": 720,
+      "EndOffset": 735,
+      "Score": 0.9999933,
+      "Text": "Timothy Sanborn",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 40,
+      "BeginOffset": 740,
+      "EndOffset": 750,
+      "Score": 0.99998236,
+      "Text": "03/13/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 41,
+      "BeginOffset": 859,
+      "EndOffset": 896,
+      "Score": 0.8655502,
+      "Text": "KENOSHA MEDICAL CENTER CAMPUS Room ED",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 57,
+      "BeginOffset": 903,
+      "EndOffset": 909,
+      "Score": 0.96992636,
+      "Text": "Stroke",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.96837693
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 42,
+      "BeginOffset": 915,
+      "EndOffset": 921,
+      "Score": 0.9802514,
+      "Text": "e06918",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 58,
+      "BeginOffset": 930,
+      "EndOffset": 949,
+      "Score": 0.8852897,
+      "Text": "Atrial fibrillation",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.9448998
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 43,
+      "BeginOffset": 995,
+      "EndOffset": 1011,
+      "Score": 0.9852551,
+      "Text": "Matthew Stauffer",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 59,
+      "BeginOffset": 1044,
+      "EndOffset": 1047,
+      "Score": 0.86412716,
+      "Text": "LVH",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.79308593
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 44,
+      "BeginOffset": 1088,
+      "EndOffset": 1101,
+      "Score": 0.9707026,
+      "Text": "0023834600068",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 13,
+      "BeginOffset": 1102,
+      "EndOffset": 1106,
+      "Score": 0.209176,
+      "Text": "QRSd",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.727103,
+          "RelationshipScore": 0.9999993,
+          "Id": 14,
+          "BeginOffset": 1107,
+          "EndOffset": 1110,
+          "Text": "112",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "BeginOffset": 1120,
+      "EndOffset": 1123,
+      "Score": 0.9933448,
+      "Text": "ECG",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9710116,
+          "RelationshipScore": 0.9277929,
+          "Id": 15,
+          "BeginOffset": 1111,
+          "EndOffset": 1119,
+          "Text": "ABNORMAL",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.19053,
+          "RelationshipScore": 0.99954957,
+          "Id": 17,
+          "BeginOffset": 1141,
+          "EndOffset": 1147,
+          "Text": "QT 434",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "BeginOffset": 1160,
+      "EndOffset": 1163,
+      "Score": 0.9953792,
+      "Text": "ECG",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.19053,
+          "RelationshipScore": 0.9995654,
+          "Id": 17,
+          "BeginOffset": 1141,
+          "EndOffset": 1147,
+          "Text": "QT 434",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9910629,
+          "RelationshipScore": 0.9999838,
+          "Id": 19,
+          "BeginOffset": 1184,
+          "EndOffset": 1220,
+          "Text": "QTc 422 Left ventricular hypertrophy",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.37642086,
+          "RelationshipScore": 0.8391963,
+          "Id": 20,
+          "BeginOffset": 1225,
+          "EndOffset": 1239,
+          "Text": "present --Axis",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.9221475,
+          "RelationshipScore": 0.94175875,
+          "Id": 21,
+          "BeginOffset": 1242,
+          "EndOffset": 1254,
+          "Text": "Sinus rhythm",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.57656384,
+          "RelationshipScore": 0.62947845,
+          "Id": 22,
+          "BeginOffset": 1255,
+          "EndOffset": 1296,
+          "Text": "no longer present P First degree AV block",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.502175,
+          "RelationshipScore": 0.99549025,
+          "Id": 23,
+          "BeginOffset": 1297,
+          "EndOffset": 1341,
+          "Text": "no longer present QRS 21 Left-axis deviation",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 45,
+      "BeginOffset": 1164,
+      "EndOffset": 1174,
+      "Score": 0.99998033,
+      "Text": "03/09/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 60,
+      "BeginOffset": 1209,
+      "EndOffset": 1220,
+      "Score": 0.37356484,
+      "Text": "hypertrophy",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 61,
+      "BeginOffset": 1242,
+      "EndOffset": 1254,
+      "Score": 0.58935916,
+      "Text": "Sinus rhythm",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "SIGN",
+          "Score": 0.7810629
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 62,
+      "BeginOffset": 1288,
+      "EndOffset": 1296,
+      "Score": 0.6873815,
+      "Text": "AV block",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.532642
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 63,
+      "BeginOffset": 1411,
+      "EndOffset": 1419,
+      "Score": 0.9423362,
+      "Text": "ischemia",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.69671774
+        },
+        {
+          "Name": "NEGATION",
+          "Score": 0.72068125
+        }
+      ],
+      "Attributes": []
+    },
+    {
+      "Id": 46,
+      "BeginOffset": 1503,
+      "EndOffset": 1512,
+      "Score": 0.99985313,
+      "Text": "3-13-2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 47,
+      "BeginOffset": 1529,
+      "EndOffset": 1544,
+      "Score": 0.99998045,
+      "Text": "Timothy Sanborn",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 28,
+      "BeginOffset": 1558,
+      "EndOffset": 1561,
+      "Score": 0.9963768,
+      "Text": "ECG",
+      "Category": "TEST_TREATMENT_PROCEDURE",
+      "Type": "TEST_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.5555301,
+          "RelationshipScore": 0.9999131,
+          "Id": 27,
+          "BeginOffset": 1549,
+          "EndOffset": 1557,
+          "Text": "Abnormal",
+          "Traits": []
+        },
+        {
+          "Type": "TEST_VALUE",
+          "Score": 0.63471925,
+          "RelationshipScore": 0.95092136,
+          "Id": 29,
+          "BeginOffset": 1618,
+          "EndOffset": 1716,
+          "Text": "T aVR Vl N4 II aVL V2 I V5 I III aVF V3 I V6 I LI MAC V-0 25 mm/sec 10.0 mm/mV F 60 - 0.50 - 40 Hz",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 48,
+      "BeginOffset": 1578,
+      "EndOffset": 1593,
+      "Score": 0.99999416,
+      "Text": "Timothy Sanborn",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 49,
+      "BeginOffset": 1598,
+      "EndOffset": 1608,
+      "Score": 0.99998176,
+      "Text": "03/13/2019",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "DATE",
+      "Traits": [],
+      "Attributes": []
+    }
+  ],
+  "UnmappedAttributes": [
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.62594384,
+        "Id": 8,
+        "BeginOffset": 484,
+        "EndOffset": 525,
+        "Text": "no longer present T 66 T-wave abnormality",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.36698413,
+        "Id": 9,
+        "BeginOffset": 526,
+        "EndOffset": 561,
+        "Text": "no longer present Possible ischemia",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.62604594,
+        "Id": 24,
+        "BeginOffset": 1342,
+        "EndOffset": 1383,
+        "Text": "no longer present T 66 T-wave abnormality",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.36955264,
+        "Id": 25,
+        "BeginOffset": 1384,
+        "EndOffset": 1419,
+        "Text": "no longer present Possible ischemia",
+        "Traits": []
+      }
+    },
+    {
+      "Type": "TEST_TREATMENT_PROCEDURE",
+      "Attribute": {
+        "Type": "TEST_VALUE",
+        "Score": 0.3017591,
+        "Id": 26,
+        "BeginOffset": 1420,
+        "EndOffset": 1459,
+        "Text": "no longer present Prolonged QT interval",
+        "Traits": []
+      }
+    }
+  ],
+  "ModelVersion": "0.0.0"
+}
